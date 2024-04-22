@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsla(240, 95%, 92%, 0.500);
+    background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+main {
+    padding: 2rem;
+}
+
+h2 {
+    color: #333;
+}
+.categories {
+    margin-top: 2rem;
+}
+.category {
+    margin-bottom: 2rem;
+}
+
+.movies-list {
+    display: flex;
+    gap: 0.5rem;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+.carousel-inner img {
+    width: 700%; 
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+}
+.serie{
+    margin-bottom: 0.25rem;
+}
+.serie a{
+    margin-right: 0.25rem;
+    text-decoration: none;
+}
+.peli{
+    margin-bottom: 0.25rem;
+}
+.peli a{
+    margin-right: 0.25rem;
+    text-decoration: none;
+}
+.movies-list{
+    margin-bottom: 0.25rem;
+}
+.movies-l a{
+    margin-right: 0.25rem;
+    text-decoration: none;
+}
+
+/* */

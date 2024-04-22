@@ -1,0 +1,179 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+  *,
+  *::before,
+  *::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .container-from {
+    display: flex;
+    border-radius: 20px;
+    box-shadow: 0 5px 7px rgba(166, 230, 253, 0.1);
+    height: 500px;
+    max-width: 900px;
+    transition: all 1s ease;
+    margin: 10px;
+  }
+  .information {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #283939b8;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  .info-childs {
+    padding: 0 1.875rem;
+  }
+  .info-childs h2 {
+    font-size: 2.0rem;
+    color: #ffffffbd;
+  }
+  .info-childs p {
+    margin: 1.25rem 0;
+    color: #d9d9d9;
+  }
+  .info-childs input {
+    background-color: transparent;
+    outline: none;
+    border: solid 2px #9191bdc8;
+    border-radius: 20px;
+    padding: 0.625rem 1.25rem;
+    color: #9191bd;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 2%;
+  }
+  .info-childs input:hover {
+    background-color: #9191bd9c;
+    border: none;
+    color: #ffffffc0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .form-information {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    text-align: center;
+    background-color: #f8f8f8da;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .form-information-childs {
+    padding: 0 1.875rem;
+  }
+  .form-information-childs h22 {
+    color: #2a2828be;
+    font-size: 2rem;
+  }
+  .form-information-childs p {
+    color: #555;
+  }
+  .icons {
+    margin: 0.9375rem 0;
+  }
+  .icons i {
+    border-radius: 50%;
+    padding: 0.9375rem;
+    cursor: pointer;
+    margin: 0 0.625rem;
+    color: #9191bd;
+    border: solid thin #9191bd;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .icons i:hover {
+    background-color: #a5a5a5;
+    color: #fff;
+  }
+  .form {
+    margin: 1.875rem 0 0 0;
+  }
+  .form label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.25rem;
+    border-radius: 20px;
+    padding: 0 0.625rem;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .form label input {
+    width: 100%;
+    padding: 0.625rem;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    color: #333;
+  }
+  .form label i {
+    color: #a7a7a7cc;
+  }
+  .form input[type="submit"] {
+    background-color: #9191bddc;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    padding: 0.625rem 0.9375rem;
+    cursor: pointer;
+    margin-top: 0.625rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .form input[type="submit"]:hover {
+    background-color: rgba(46, 46, 108, 0.452);
+  }
+  .hide {
+    position: absolute;
+    transform: translateY(-300%);
+  }
+  @media screen and (max-width: 750px) {
+    html {
+      font-size: 12px;
+    }
+  }
+  @media screen and (max-width: 580px) {
+    html {
+      font-size: 10px;
+    }
+    .container-from {
+      height: auto;
+      flex-direction: column;
+    }
+    .information {
+      width: 100%;
+      padding: 0.625rem;
+      border-top-left-radius: 20px;
+      border-top-right-radius: 20px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+    }
+    .form-information {
+      width: 100%;
+      padding: 0.625rem;
+      border-bottom-left-radius: 20px;
+      border-top-right-radius: 0;
+    }
+  }
+
