@@ -14,7 +14,7 @@ app.use((req, res, next) => {
         res.locals.nombreUsuario = req.session.email;
         next();
     } else {
-        res.redirect('../Home.html');
+        res.redirect('../home.html');
     }
 });
 
