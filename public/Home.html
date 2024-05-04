@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/png" href="../sptv.png">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
+
+
+    <style>
+        .carousel-control-prev,
+        .carousel-control-next {
+            top: 72%;
+            transform: translateY(-9.8%) scale(3);
+            transition: top 0.5 ease;
+        }
+        .sin-flechas .carousel-control-prev,
+        .sin-flechas .carousel-control-next {
+        top: 50%;
+        display: none;
+        }
+
+        nav{
+            background-color: #000000;
+            box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+        }
+        nav ul{
+            width: 100%;
+            list-style: none;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+        }
+        nav li{
+            height: 50px;
+        }
+        nav a{
+            height:  100%;
+            padding: 0 30px;
+            display: flex;
+            align-items: center;
+            color: #d5afafd8;
+        }
+
+        nav a:hover{
+            background-color: #23213712;
+        }
+        nav li:first-child{
+            margin-right: auto;
+        }
+        .sidebar{
+            position: fixed;
+            top: 0;
+            right: 0;
+            height: 100vh;
+            width: 250px;
+            z-index: 999;
+            background-color: rgb(0, 0, 0);
+            backdrop-filter: blur(10px);
+            box-shadow: -10px 0 10px rgba(237, 233, 233, 0.1);
+            display: none;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+        }
+        .sidebar li{
+            width: 100%;
+        }
+        .sidebar a{
+            width: 100%;
+        }
+        svg:hover{
+            fill:#fff;
+        }
+        .menu-button{
+            display: none;
+        }
+        @media(max-width: 800px){
+            .hideOnMobile{
+                display: none;
+            }
+        }
+        @media (max-width: 400px) {
+            .sidebar{
+                width: 100%;
+            }
+            .menu-button{
+                display: block;
+            }
+        }
+        .serie-image{
+            width: 200%;
+            height: 300px; 
+            cursor: pointer;
+            border-radius: 8px; 
+            transition: transform 0.3s ease;
+        }
+        .serie-image:hover {
+            transform: scale(1.1);
+        }
+        .peli-image{
+            width: 200%;
+            height: 300px; 
+            cursor: pointer;
+            border-radius: 8px; 
+            transition: transform 0.3s ease; 
+        }
+        .peli-image:hover {
+            transform: scale(1.1);
+        }
+        .cate-image{
+            width: 200%;
+            height: 300px; 
+            cursor: pointer;
+            border-radius: 8px; 
+            transition: transform 0.3s ease; 
+        }
+        .cate-image:hover {
+            transform: scale(1.1);
+        }
+    </style>
+
+</head>
+<body>
+    <nav>
+        <ul class="sidebar">
+            <li onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" fill="white"  viewBox="0 -960 960 960" width="26"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></a></li>
+            <li><a style="text-decoration: none;" href="#">Home</a></li>
+            <li><a style="text-decoration: none;" href="#">Perfil</a></li>
+            <li><a style="text-decoration: none;" href="#">Ayuda</a></li>
+            <li><a style="text-decoration: none;" href="logout.js">Cerrar Sesión</a></li>
+        </ul>
+        <ul>
+            <li class=""><a style="text-decoration: none;" href="#">SP-TV</a></li>
+            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Inicio</a></li>
+            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Generos</a></li>
+            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Películas</a></li>
+            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Series</a></li>
+            <li onclick=showSidebar()><a href="#"><svg class="img-2" xmlns="http://www.w3.org/2000/svg"  fill="white" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg></a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="featured">
+            <h2>Destacados</h2>
+            <!-- Bootstrap -->
+            <div id="myCarousel" class="carousel slide mt-4" data-ride="carousel" onmouseover="showArrows()" onmouseout="hideArrows()">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="tooltip-container">
+                            <a href="img/top/The Ice Road/index.html"><img style="cursor:pointer; border-radius: 8px; " id="imagenDestacado" src="img/top/The Ice Road/T1.webp" class="d-block w-100" alt="IceRoad"></a>
+                        </div>
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5 style="cursor:pointer;">Ice Road</h5>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <a href=""><img style="cursor:pointer; border-radius: 8px; " id="imagenDestacado" src="img/top/T2.webp" class="d-block w-100" alt="The Last Deal" data-placement="top"></a>
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5 style="cursor:pointer;">The Last Deal</h5>
+                        </div>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev" style="display: none;">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Anterior</span>
+                </a>
+                <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next" style="display: none;">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Siguiente</span>
+                </a>
+            </div>
+            <div class="serie"> 
+                <h3>Serie</h3>
+                <a href="#"><img class="serie-image" src="img/serie/S1.webp"alt="The Last Of Us" title="The Last Of Us" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="img/serie/Reacher/index.html"><img class="serie-image" src="img/serie/S1-2.webp" alt="Reacher" title="Reacher" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="#"><img class="serie-image" src="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fh5zoXfUPzO04GyaKqbLUM5HLd0n.jpg&w=256&q=75" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="#"><img class="serie-image" src="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fks9O01flCHrqnmJ4yBgQc0K7ivZ.jpg&w=256&q=75" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="#"><img class="serie-image" src="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg&w=256&q=75" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="#"><img class="serie-image" src="https://www.lahiguera.net/musicalia/artistas/varios/disco/9143/13_reasons_why_season_2_a_netflix_original_series_soundtrack-portada.jpg" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="#"><img class="serie-image" src="https://caracoltv.brightspotcdn.com/dims4/default/94d0866/2147483647/strip/true/crop/1080x1600+0+0/resize/1000x1481!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fa2%2F7d%2F539c51664c2c8b365b4a47a78dde%2Fmindhunter.jpg" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="#"><img class="serie-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkv76pxt1mDwHh8HwjOw3u0k4rSjLglnRzaqtlw2BEFvoln8cKFXAenHGJQaqOGNwx8jw&usqp=CAU" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="#"><img class="serie-image" src="https://hips.hearstapps.com/hmg-prod/images/punisher-1560758007.jpg?crop=1xw:1xh;center,top&resize=980:*" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+            </div>
+            <div class="peli">
+                <h3>Película</h3>
+                <a href="#"><img class="peli-image" src="img/pelicula/P1.webp" alt="The Queen's Knight" alt="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                <a href="img/pelicula/Blade Runner 2049/index.html"><img   class="peli-image" src="img/pelicula/Blade Runner 2049/P2.webp" alt="Blade Runner 2049" alt="" style="width: 200px; height: 300px; cursor: pointer;"></a>
+            </div>
+        </section>
+        
+        <section class="categories">
+            <h2>Generos</h2>
+            <!----->
+            <div class="category">
+                <h3>Películas</h3> 
+                <div class="movies-list">
+                    <!---->
+                    <div class="movie-l">
+                        <picture>                       
+                        <a href=""><img class="cate-image" src="img/A1.webp" alt="Mortal Kombat" title="Mortal Kombat" style="width: 200px; height: 300px; cursor: pointer; "></a>
+                        </picture>
+                        <h4>Acción</h4>
+                    </div>
+                    <div class="movie-l">
+                        <a href=""><img class="cate-image"   src="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fz5CriPjT0KhkujnxCZhAEGbBs4H.jpg&w=256&q=75" alt="De las cenizas" title="De las cenizas" style="width: 200px; height: 300px; cursor: pointer;"></a>
+                        <h4>Drama</h4>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- + -->
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; SP-TV</p>
+    </footer>
+<script>
+        function showArrows() {
+            document.querySelector('.carousel-control-prev').style.display = 'block';
+            document.querySelector('.carousel-control-next').style.display = 'block';
+        }
+
+        function hideArrows() {
+            document.querySelector('.carousel-control-prev').style.display = 'none';
+            document.querySelector('.carousel-control-next').style.display = 'none';
+        }
+        function showSidebar(){
+            const sidebar = document.querySelector('.sidebar')
+            sidebar.style.display = 'flex'
+        }
+        function hideSidebar(){
+            const sidebar = document.querySelector('.sidebar')
+            sidebar.style.display = 'none'
+        }
+    </script>
+
+
+</body>
+</html>
