@@ -23,7 +23,7 @@ const connection = mysql.createConnection({
     password: '',
     database: 'webseries'
 });
-app.post('/login.js', (req, res) => {
+app.post('login.js', (req, res) => {
     const { email, password } = req.body;
     connection.query('SELECT * FROM registro_usuario WHERE email = ?', [email], (error, results, fields) => {
         if (error) throw error;
@@ -33,7 +33,7 @@ app.post('/login.js', (req, res) => {
             if (hashedPassword === user.password) {
                 req.session.username = user.nombre;
                 req.session.email = user.email;
-                res.redirect('/Principal/Home.html');
+                res.redirect('src/public/home.html');
             } else {
                 res.send('Contraseña incorrecta.');
             }
