@@ -18,7 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
     btnSignUp.addEventListener("click", handleSignUp);
 });
 
-/*function google() {
+
+function google() {
     var ancho = 400;
     var alto = 450;
     var left = (screen.width / 2) - (ancho / 2);
@@ -40,4 +41,3 @@ function twitter() {
     var top = (screen.height / 2) - (alto / 2);
     var ventana = window.open('https://twitter.com/i/flow/login','', `top=${top},left=${left},width=${ancho},height=${alto}`);
 }
-*/
