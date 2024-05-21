@@ -26,7 +26,7 @@ body::before {
     height: 50%;
     background:
     linear-gradient(to right, rgba(131, 90, 90, 0.819), rgba(0, 0, 0, 0.476)) ,
-     url(P2-1.webp);
+     url(../../img/assets/movie/B-R2.webp);
     image-resolution: 300dpi;
     background-repeat: no-repeat;
     background-size: cover;
