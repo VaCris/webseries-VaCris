@@ -111,17 +111,16 @@
     <nav>
         <ul class="sidebar">
             <li onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" fill="white"  viewBox="0 -960 960 960" width="26"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></a></li>
-            <li><a style="text-decoration: none;" href="#">Home</a></li>
-            <li><a style="text-decoration: none;" href="#">Perfil</a></li>
-            <li><a style="text-decoration: none;" href="#">Ayuda</a></li>
-            <li><a style="text-decoration: none;" href="logout.js">Cerrar Sesión</a></li>
+            <li><a href="../../../public/pages/Home.html">Home</a></li>
+            <li><a href="../../../public/pages/Perfil.html">Perfil</a></li>
+            <li><a href="../../../public/pages/About.html">Ayuda</a></li>
         </ul>
         <ul>
-            <li class=""><a style="text-decoration: none;" href="#">SP-TV</a></li>
-            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Inicio</a></li>
-            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Generos</a></li>
-            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Películas</a></li>
-            <li class="hideOnMobile"><a style="text-decoration: none;" href="#">Series</a></li>
+            <li class=""><a href="#">SP-TV</a></li>
+            <li class="hideOnMobile"><a href="../../../public/pages/Home.html">Inicio</a></li>
+            <li class="hideOnMobile"><a href="#">Generos</a></li>
+            <li class="hideOnMobile"><a href="../../../public/pages/Peliculas.html">Películas</a></li>
+            <li class="hideOnMobile"><a href="../../../public/pages/Series.html">Series</a></li>
             <li onclick=showSidebar()><a href="#"><svg class="img-2" xmlns="http://www.w3.org/2000/svg"  fill="white" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg></a></li>
         </ul>
     </nav>
@@ -129,11 +128,12 @@
         <!--imagen pelis-->
     </div>
 
-    <script>      
+    <script>
+      
         const moviesContainer = document.getElementById('movies-container');
 
        
-        const jsonURL = '../../src/data/movie.json';
+        const jsonURL = 'https://api.themoviedb.org/3/discover/movie?api_key=9d6781296e5007c7370954263d88f1fa&language=es-ES&sort_by=popularity.desc&page=1n';
 
        
         fetch(jsonURL)
@@ -145,7 +145,7 @@
                     const movieHTML = `
                     <a href="movie_details.html?id=${movie.id}">
                         <div class="movie">
-                            <img class="peli-image" href="" style="width: 200px; height: 300px; cursor: pointer;" src="https://image.tmdb.org/t/p/w500/${movie.poster_path}" alt="${movie.title} Poster">
+                            <img class="peli-image" href=""  src="https://image.tmdb.org/t/p/w500/${movie.poster_path}" alt="${movie.title} Poster">
                         </div>
                     </a>
                     `;
@@ -153,7 +153,7 @@
                     moviesContainer.innerHTML += movieHTML;
                 });
             })
-            .catch(error => console.error('Error al cargar el archivo JSON:', error));
+            .catch(error => console.error('Error al cargar las imagenes:', error));
     </script>
 </body>
 </html>

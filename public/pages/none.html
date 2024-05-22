@@ -5,17 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-    <link rel="stylesheet"  href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="icon" type="image/png" href="../sptv.png">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
     <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
-
-
     <style>
         .carousel-control-prev,
         .carousel-control-next {
@@ -133,7 +131,7 @@
 <body>
     <nav>
         <ul class="sidebar">
-            <li onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" fill="white"  viewBox="0 -960 960 960" width="26"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></a></li>
+            <li onclick="hideSidebar()"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" fill="white" viewBox="0 -960 960 960" width="26"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></a></li>
             <li><a href="../../../public/pages/Home.html">Home</a></li>
             <li><a href="../../../public/pages/Perfil.html">Perfil</a></li>
             <li><a href="../../../public/pages/About.html">Ayuda</a></li>
@@ -144,29 +142,21 @@
             <li class="hideOnMobile"><a href="#">Generos</a></li>
             <li class="hideOnMobile"><a href="../../../public/pages/Peliculas.html">Películas</a></li>
             <li class="hideOnMobile"><a href="../../../public/pages/Series.html">Series</a></li>
-            <li onclick=showSidebar()><a href="#"><svg class="img-2" xmlns="http://www.w3.org/2000/svg"  fill="white" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg></a></li>
+            <li onclick="showSidebar()"><a href="#"><svg class="img-2" xmlns="http://www.w3.org/2000/svg" fill="white" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg></a></li>
         </ul>
     </nav>
+    
+    <div class="search">
+        <input type="text" placeholder="Buscar...">
+        <button>🔍</button>
+    </div>
+
     <main>
         <section class="featured">
             <h2>Destacados</h2>
-            <!-- Bootstrap -->
             <div id="myCarousel" class="carousel slide mt-4" data-ride="carousel" onmouseover="showArrows()" onmouseout="hideArrows()">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <div class="tooltip-container">
-                            <a href="img/top/The Ice Road/index.html"><img style="cursor:pointer; border-radius: 8px; " id="imagenDestacado" src="../../src/img/assets/top-movie/TIR1.webp" class="d-block w-100" alt="IceRoad"></a>
-                        </div>
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5 style="cursor:pointer;">Ice Road</h5>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <a href=""><img style="cursor:pointer; border-radius: 8px; " id="imagenDestacado" src="../../src/img/assets/top-movie/LD1.webp" class="d-block w-100" alt="The Last Deal" data-placement="top"></a>
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5 style="cursor:pointer;">The Last Deal</h5>
-                        </div>
-                    </div>
+                <div class="carousel-inner" id="carouselInner">
+                    <!-- pipipi -->
                 </div>
                 <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev" style="display: none;">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -177,25 +167,23 @@
                     <span class="sr-only">Siguiente</span>
                 </a>
             </div>
-            <div class="serie"> 
-                <h3>Series</h3>
-                <a href="#"><img class="serie-image" src="../../src/img/assets/serie/S1.webp"alt="The Last Of Us" title="The Last Of Us" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="img/serie/Reacher/index.html"><img class="serie-image" src="../../src/img/assets/serie/S1-2.webp" alt="Reacher" title="Reacher" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="#"><img class="serie-image" src="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fh5zoXfUPzO04GyaKqbLUM5HLd0n.jpg&w=256&q=75" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="#"><img class="serie-image" src="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fks9O01flCHrqnmJ4yBgQc0K7ivZ.jpg&w=256&q=75" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="#"><img class="serie-image" src="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg&w=256&q=75" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="#"><img class="serie-image" src="https://www.lahiguera.net/musicalia/artistas/varios/disco/9143/13_reasons_why_season_2_a_netflix_original_series_soundtrack-portada.jpg" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="#"><img class="serie-image" src="https://caracoltv.brightspotcdn.com/dims4/default/94d0866/2147483647/strip/true/crop/1080x1600+0+0/resize/1000x1481!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fa2%2F7d%2F539c51664c2c8b365b4a47a78dde%2Fmindhunter.jpg" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="#"><img class="serie-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkv76pxt1mDwHh8HwjOw3u0k4rSjLglnRzaqtlw2BEFvoln8cKFXAenHGJQaqOGNwx8jw&usqp=CAU" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="#"><img class="serie-image" src="https://hips.hearstapps.com/hmg-prod/images/punisher-1560758007.jpg?crop=1xw:1xh;center,top&resize=980:*" alt="" title="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-            </div>
-            <div class="peli">
-                <h3>Película</h3>
-                <a href="#"><img class="peli-image" src="../../src/img/assets/movie/P1.webp" alt="The Queen's Knight" alt="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-                <a href="img/pelicula/Blade Runner 2049/index.html"><img   class="peli-image" src="../../src/img/assets/movie/B-R1.webp" alt="Blade Runner 2049" alt="" style="width: 200px; height: 300px; cursor: pointer;"></a>
-            </div>
         </section>
         
+
+        <div class="serie">
+            <h2>Series</h2>
+            <div class="series-list">
+                <!-- imagen serie -->
+            </div>
+        </div>
+
+        <section class="movies">
+            <h2>Películas</h2>
+            <div class="movies-list">
+                <!-- imagen peli -->
+            </div>
+        </section>
+
         <section class="categories">
             <h2>Generos</h2>
             <!----->
@@ -222,12 +210,14 @@
             
             <!-- + -->
         </section>
-    </main>
     
+    </main>
+
     <footer>
-        <p style="margin: 0px 0px 2px 350px;">&copy; SP-TV</p>
+        <p>&copy; SP-TV</p>
     </footer>
-<script>
+
+    <script>
         function showArrows() {
             document.querySelector('.carousel-control-prev').style.display = 'block';
             document.querySelector('.carousel-control-next').style.display = 'block';
@@ -237,16 +227,104 @@
             document.querySelector('.carousel-control-prev').style.display = 'none';
             document.querySelector('.carousel-control-next').style.display = 'none';
         }
+
         function showSidebar(){
-            const sidebar = document.querySelector('.sidebar')
-            sidebar.style.display = 'flex'
+            const sidebar = document.querySelector('.sidebar');
+            sidebar.style.display = 'flex';
         }
+
         function hideSidebar(){
-            const sidebar = document.querySelector('.sidebar')
-            sidebar.style.display = 'none'
+            const sidebar = document.querySelector('.sidebar');
+            sidebar.style.display = 'none';
+        }
+
+        
+        const moviesURL = 'https://api.themoviedb.org/3/discover/movie?api_key=9d6781296e5007c7370954263d88f1fa&language=es-ES&sort_by=popularity.desc&page=1n';
+        const seriesURL = 'https://api.themoviedb.org/3/discover/tv?api_key=9d6781296e5007c7370954263d88f1fa&language=es-ES&sort_by=popularity.desc&page=1';
+
+
+
+        function carrusel() {
+        const carouselInner = document.querySelector('.carousel-inner');
+        
+        fetch(moviesURL)
+            .then(response => response.json())
+            .then(data => {
+                data.results.forEach(movie => {
+                    const movieHTML = `                   
+                            <a href="movie_details.html?id=${movie.id}">
+                                <img src="https://image.tmdb.org/t/p/w500/${movie.poster_path}" alt="${movie.title}">
+                            </a>
+                    `;
+                    carouselInner.innerHTML += movieHTML;
+                });
+            })
+            .catch(error => console.error('Error al cargar las películas:', error));
+
+        fetch(seriesURL)
+            .then(response => response.json())
+            .then(data => {
+                data.results.forEach(series => {
+                    const seriesHTML = `
+                            <a href="series_details.html?id=${series.id}">
+                                <img src="https://image.tmdb.org/t/p/w500/${series.poster_path}" alt="${series.name}">
+                            </a>
+                     
+                    `;
+                    carouselInner.innerHTML += seriesHTML;
+                });
+            })
+            .catch(error => console.error('Error al cargar las series:', error));
+        }
+
+        function fetchMovies() {
+            fetch(moviesURL)
+                .then(response => response.json())
+                .then(data => {
+                    const moviesList = document.querySelector('.movies-list');
+                    data.results.forEach(movie => {
+                        const movieHTML = `
+                            <a href="movie_details.html?id=${movie.id}">
+                                <img class="movie-image" style="width: 200px; height: 300px; cursor: pointer;" src="https://image.tmdb.org/t/p/w500/${movie.poster_path}" alt="${movie.title}">
+                            </a>
+                        `;
+                        moviesList.innerHTML += movieHTML;
+                    });
+                })
+                .catch(error => console.error('Error al cargar las películas:', error));
+        }
+
+        function fetchSeries() {
+            fetch(seriesURL)
+                .then(response => response.json())
+                .then(data => {
+                    const seriesList = document.querySelector('.series-list');
+                    data.results.forEach(series => {
+                        const seriesHTML = `
+                            <a href="series_details.html?id=${series.id}">
+                                <img class="serie-image" style="width: 200px; height: 300px; cursor: pointer;" src="https://image.tmdb.org/t/p/w500/${series.poster_path}" alt="${series.name}">
+                            </a>
+                        `;
+                        seriesList.innerHTML += seriesHTML;
+                    });
+                })
+                .catch(error => console.error('Error al cargar las series:', error));
+        }
+
+        fetchMovies();
+        fetchSeries();
+
+        function showSidebar(){
+            const sidebar = document.querySelector('.sidebar');
+            sidebar.style.display = 'flex';
+        }
+
+        function hideSidebar(){
+            const sidebar = document.querySelector('.sidebar');
+            sidebar.style.display = 'none';
         }
     </script>
 
-
+    <script src="../../src/Auth/carrusel_data.js"></script>
 </body>
 </html>

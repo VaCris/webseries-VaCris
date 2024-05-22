@@ -146,30 +146,8 @@
                     seriesContainer.innerHTML += tvShowHTML;
                 });
             })
-            .catch(error => console.error('Error al cargar las series de televisión:', error));
+            .catch(error => console.error('Error al cargar las imagenes', error));
     </script>
-    <!-- 
-
-       
-             fetch(jsonURL)
-            .then(response => response.json())
-            .then(data => {
-                
-                data.results.forEach(movie => {
-                    
-                    const movieHTML = `
-                    <a href="movie_details.html?id=${movie.id}">
-                        <div class="movie">
-                            <img class="peli-image" href="" style="width: 200px; height: 300px; cursor: pointer;" src="https://image.tmdb.org/t/p/w500/${movie.poster_path}" alt="${movie.title} Poster">
-                        </div>
-                    </a>
-                    `;
-                    
-                    moviesContainer.innerHTML += movieHTML;
-                });
-            })
-            .catch(error => console.error('Error al cargar el archivo JSON:', error));
-    </script> -->
 </body>
 </html>
 
