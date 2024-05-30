@@ -7,11 +7,9 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-	<link rel="icon" type="image/png" href="Principal/img/assets/svg/sptv.png">
-	<script src="popup.js"></script>
-	<link rel="stylesheet"  href="../src/Styles/styles.css">
+	<link rel="icon" type="image/png" href="../assets/images/sptv.png">
+	<link rel="stylesheet"  href="../../src/Styles/styles.css">
 	<title>SP-TV</title>
-	<script src="../src/models/eventos.js"></script>
 	<style>
 		.center{
 			position: absolute;
@@ -83,7 +81,7 @@
 	</style>
 </head>
 <body class="absolute top-0 z-[-2] h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]">
-	<div class="container-from register">
+	 <div class="container-from register">
 		<div class="information">
 			<div class="info-childs">
 				<h2>Bienvenido</h2>
@@ -94,22 +92,22 @@
 		<div class="form-information">
 			<div class="form-information-childs">
 				<h2>Crear una Cuenta</h2>
-				<!-- <div class="icons">
+				 <!-- <div class="icons">
 					<a onclick="google()"><i class='bx bxl-google-plus'>						
 					</i></a>
 					<a onclick="facebook()" rel="noopener noreferrer"><i class='bx bxl-facebook-circle'>	
 					</i></a>
 					<a onclick="twitter()" rel="noopener noreferrer"><i class='bx bxl-twitter'></i></a>
-				</div> -->
-				 <p>o usa tu email para registrarte</p>
-				 <form class="form" action="../src/models/registro.js" method="post">
+				</div>  -->
+					 <p>o usa tu email para registrarte</p>
+				 <form class="form" action="../../src/Auth/registro.php" method="post">
 				 	<label>
 				 		<i class='bx bx-user' ></i>
 				 		<input type="text" placeholder="Usuario" name="username" >
 				 	</label>
 				 	<label>
 				 		<i class='bx bxs-envelope' ></i>
-				 		<input type="email" pattern="[^ @]*@[^ @]*" placeholder="Correo" name="email"  required>
+				 		<input type="email" placeholder="Correo" name="email"  required>
 				 	</label>
 				 	<label>
 				 		<i class='bx bxs-lock-alt' ></i>
@@ -133,8 +131,6 @@
 	</div>
 	
 
-	
-
 	<div class="container-from login hide">
 		<div class="information">
 			<div class="info-childs">
@@ -145,16 +141,9 @@
 		</div>
 		<div class="form-information">
 			<div class="form-information-childs">
-				<h2>Iniciar Sesión</h2>
-				<!-- <div class="icons">
-					<a onclick="google()"><i class='bx bxl-google-plus'>						
-					</i></a>
-					<a onclick="facebook()" rel="noopener noreferrer"><i class='bx bxl-facebook-circle'>	
-					</i></a>
-					<a onclick="twitter()" rel="noopener noreferrer"><i class='bx bxl-twitter'></i></a>
-				</div> -->
+				<h2>Iniciar Sesión</h2>				
 				 <p>o Iniciar Sesión con una cuenta</p>
-				 <form class="form" action="../src/models/login.js" method="post">
+				 <form class="form" action="../../src/Auth/login.php" method="post">
 					<label>
 				 		<i class='bx bxs-envelope' ></i>
 				 		<input type="email" placeholder="Correo Electrónico" name="email"  required>
@@ -169,20 +158,16 @@
 		</div>
 	</div>
 	<!-- <script>
-	document.getElementById("open-popup").addEventListener("click", function (event) {
-    
-    event.preventDefault();
-
-    
-    document.getElementsByClassName("popup")[0].classList.add("active");
-
-    
+	document.getElementById("open-popup").addEventListener("click", function (event) {    
+    event.preventDefault();    
+    document.getElementsByClassName("popup")[0].classList.add("active");    
    	setTimeout(function () {
       window.location.href = "Principal/Home.html";
     	}, 2000); //2s
 	});
-
 	</script> -->
+	<script src="../../src/models/eventos.js"></script>
+	<script src="../../src/models/popup.js" ></script>
 </body>
 
 </html> 

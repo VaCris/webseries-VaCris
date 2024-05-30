@@ -8,7 +8,7 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-    <link rel="stylesheet"  href="assets/css/style.css">
+    <link rel="stylesheet"  href="../assets/css/style.css">
     <link rel="icon" type="image/png" href="../sptv.png">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
@@ -132,11 +132,10 @@
       
         const moviesContainer = document.getElementById('movies-container');
 
+        const url = 'https://ott-details.p.rapidapi.com/advancedsearch?start_year=2010&end_year=2024&min_imdb=6&max_imdb=7.8&genre=action&language=spanish&type=movie&sort=latest&page=100';
+        const json = '../../src/data/movie.json';
        
-        const jsonURL = 'https://api.themoviedb.org/3/discover/movie?api_key=9d6781296e5007c7370954263d88f1fa&language=es-ES&sort_by=popularity.desc&page=1n';
-
-       
-        fetch(jsonURL)
+        fetch(json)
             .then(response => response.json())
             .then(data => {
                 

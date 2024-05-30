@@ -1,4 +1,6 @@
-app.get('/logout.js', (req, res) => {
+// Arreglar todo los logout %
+
+app.get('/public/pages/Home.html', (req, res) => {
     req.session.destroy((err) => {
         if (err) {
             console.error('Error al cerrar la sesión:', err);

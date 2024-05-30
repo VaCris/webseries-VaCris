@@ -2,20 +2,11 @@
 module.exports = {
   darkMode: ["class"],
   content: [
-    "./pages/**/*.{ts,tsx}",
-    "./components/**/*.{ts,tsx}",
-    "./app/**/*.{ts,tsx}",
-    "./src/**/*.{ts,tsx}",
+    "./pages/**/*.{html,js,php}",
+    "./components/**/*.{html,js,php}",
+    "./app/**/*.{html,js,php}",
+    "./src/**/*.{html,js,php}",
   ],
-  purge: {
-    enabled: process.env.NODE_ENV === 'production',
-    content: [
-      "./pages/**/*.{ts,tsx}",
-      "./components/**/*.{ts,tsx}",
-      "./app/**/*.{ts,tsx}",
-      "./src/**/*.{ts,tsx}",
-    ],
-  },
   theme: {
     container: {
       center: true,
