@@ -1,0 +1,1648 @@
+[
+  {
+    "id": 3000,
+    "title": "Dune: Parte dos",
+    "year": 2024,
+    "director": "Denis Villeneuve",
+    "actors": "Timothée Chalamet, Zendaya, Florence Pugh, Austin Butler",
+    "plot": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+    "country": "USA",
+    "genre": "Sci-Fi, Adventure",
+    "runtime": "155 min",
+    "ratings": {
+        "IMDb": "8.2",
+        "Rotten Tomatoes": "85%",
+        "Metacritic": "78"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",
+    "url": "No disponible"
+  },
+  {
+    "id": 3001,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "actors": "Marlon Brando, Al Pacino, James Caan",
+    "plot": "El anciano patriarca de una dinastía del crimen organizado en la Nueva York de la posguerra transfiere el control de su imperio clandestino a su reticente hijo menor.",
+    "country": "United States",
+    "genre": "Crime, Drama",
+    "runtime": "175 min",
+    "ratings": {
+      "IMDb": "9.2/10",
+      "Rotten Tomatoes": "97%",
+      "Metacritic": "100/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3002,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+    "plot": "Cuando la amenaza conocida como el Joker siembra el caos entre los habitantes de Gotham, Batman debe aceptar una de las mayores pruebas psicológicas y físicas de su capacidad para luchar contra la injusticia.",
+    "country": "United States",
+    "genre": "Action, Crime, Drama",
+    "runtime": "152 min",
+    "ratings": {
+      "IMDb": "9.1/10",
+      "Rotten Tomatoes": "94%",
+      "Metacritic": "84/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3003,
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "actors": "Al Pacino, Robert De Niro, Diane Keaton",
+    "plot": "La vida temprana y la carrera de Vito Corleone en la ciudad de Nueva York en la década de 1920 se retratan, mientras su hijo, Michael, expande y refuerza su control sobre el sindicato del crimen familiar.",
+    "country": "United States",
+    "genre": "Crime, Drama",
+    "runtime": "202 min",
+    "ratings": {
+      "IMDb": "9.0/10",
+      "Rotten Tomatoes": "96%",
+      "Metacritic": "90/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3004,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "actors": "Ryan Gosling, Harrison Ford, Ana de Armas, Jared Leto",
+    "plot": "En 2049, el Oficial K, un blade runner de la Policía de Los Ángeles, descubre un secreto enterrado durante mucho tiempo que tiene el potencial de sumir lo que queda de la sociedad en el caos.",
+    "country": "USA",
+    "genre": "Sci-Fi, Thriller",
+    "runtime": "164 min",
+    "ratings": {
+      "IMDb": "8.0",
+      "Rotten Tomatoes": "88%",
+      "Metacritic": "81"
+    },
+    "poster": "https://iili.io/dNUHjyu.jpg",
+    "banners": [
+      "https://iili.io/dNU3al2.jpg",
+      "https://iili.io/dNUFDYB.jpg",
+      "https://iili.io/dNUKgFR.jpg"
+    ],
+    "url": "https://swhoi.com/e/9exefir4x7z9"
+  },
+  {
+    "id": 3005,
+    "title": "Godzilla y Kong: El nuevo imperio",
+    "year": 2024,
+    "director": "No disponible",
+    "actors": "No disponible",
+    "plot": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+    "country": "USA",
+    "genre": "Action, Sci-Fi, Adventure",
+    "runtime": "No disponible",
+    "ratings": {
+        "IMDb": "No disponible",
+        "Rotten Tomatoes": "No disponible",
+        "Metacritic": "No disponible"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+    "url": "No disponible"
+  },
+  {
+    "id": 3006,
+    "title": "The Ice Road",
+    "year": 2021,
+    "director": "Jonathan Hensleigh",
+    "actors": "Liam Neeson, Marcus Thomas, Laurence Fishburne, Amber Midthunder",
+    "plot": "Tras el colapso de una remota mina de diamantes en el norte de Canadá, un conductor de camiones se embarca en una peligrosa misión de rescate sobre un océano congelado para salvar a los mineros atrapados.",
+    "country": "USA",
+    "genre": "Action, Thriller",
+    "runtime": "108 min",
+    "ratings": {
+      "IMDb": "5.6",
+      "Rotten Tomatoes": "43%",
+      "Metacritic": "37"
+    },
+    "poster": "https://iili.io/dOT9L5Q.jpg",
+    "banners": [
+      "https://iili.io/dOTH0rb.jpg"
+
+    ],
+    "url": "https://playerwish.com/6ty5l8isbdoe"
+  },
+  {
+    "id": 3007,
+    "title": "Bad Boys for Life",
+    "year": 2020,
+    "director": "Adil El Arbi, Bilall Fallah",
+    "actors": "Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig",
+    "plot": "Los detectives Mike Lowrey y Marcus Burnett vuelven a la acción para enfrentar a un nuevo líder de un cartel de drogas en Miami. Esta vez, deben luchar contra amenazas personales y profesionales en una misión que pone a prueba su amistad y lealtad.",
+    "country": "USA",
+    "genre": "Action, Comedy, Crime",
+    "runtime": "124 min",
+    "ratings": {
+      "IMDb": "6.6",
+      "Rotten Tomatoes": "76%",
+      "Metacritic": "59"
+    },
+    "poster": "https://iili.io/dOTHbyl.jpg",
+    "banners": [
+      "https://iili.io/dOT2rTQ.webp"
+    ],
+    "url": "https://playerwish.com/e/ii9z27xhp9lk"
+  },
+  {
+    "id": 3008,
+    "title": "WALL·E",
+    "year": 2008,
+    "director": "Andrew Stanton",
+    "actors": "Ben Burtt, Elissa Knight, Jeff Garlin",
+    "plot": "En el futuro, un robot recolector de desechos emprende un viaje espacial que decidirá el destino de la humanidad.",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "98 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "95%",
+      "Metacritic": "95/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3009,
+    "title": "The Lives of Others",
+    "year": 2006,
+    "director": "Florian Henckel von Donnersmarck",
+    "actors": "Ulrich Mühe, Martina Gedeck, Sebastian Koch",
+    "plot": "Un agente de la policía secreta en Berlín Oriental se ve cada vez más absorbido por las vidas de aquellos a quienes está vigilando.",
+    "country": "Germany",
+    "genre": "Drama, Thriller",
+    "runtime": "137 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "92%",
+      "Metacritic": "89/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQyZGFjNWMtYWFiYy00OWU1LTlhMjAtYTBiNmU5NjJiNTAzXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg"
+  },
+  {
+    "id": 3010,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "director": "Anthony Russo, Joe Russo",
+    "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+    "plot": "Los Avengers y sus aliados deben estar dispuestos a sacrificarlo todo para intentar derrotar al poderoso Thanos antes de que su devastación ponga fin al universo.",
+    "country": "United States",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "149 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "85%",
+      "Metacritic": "68/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3011,
+    "title": "Kung Fu Panda 4",
+    "year": 2024,
+    "director": "Joel Crawford",
+    "actors": "Jack Black, Angelina Jolie, Dustin Hoffman, Seth Rogen",
+    "plot": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado 'el Camaleón', que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+    "country": "USA",
+    "genre": "Animation, Action, Adventure, Comedy, Fantasy",
+    "runtime": "105 min",
+    "ratings": {
+        "IMDb": "7.1",
+        "Rotten Tomatoes": "78%",
+        "Metacritic": "No disponible"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
+    "url": "No disponible"
+  },
+  {
+    "id": 3012,
+    "title": "Atrapados en el abismo",
+    "year": 2024,
+    "director": "Claudio Fäh",
+    "actors": "Scott Coker, David J Biscoe, Lee Byford, Phyllis Logan, Colm Meaney, Will Attenborough, James Carroll Jordan",
+    "plot": "Esta película sigue a personajes de orígenes muy diferentes que se juntan cuando el avión en el que viajan se estrella en el Océano Pacífico. Cuando el avión se detiene peligrosamente cerca del borde de un barranco con los pasajeros y la tripulación atrapados en una bolsa de aire, se produce una lucha de pesadilla por la supervivencia en la que el suministro de aire se agota y los peligros se acercan por todos lados.",
+    "country": "USA",
+    "genre": "Action, Horror, Thriller",
+    "runtime": "90 min",
+    "ratings": {
+        "IMDb": "6.3",
+        "Rotten Tomatoes": "No disponible",
+        "Metacritic": "67/100"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
+    "url": "No disponible"
+  },
+  {
+    "id": 3013,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "director": "Christopher Nolan",
+    "actors": "Christian Bale, Tom Hardy, Anne Hathaway",
+    "plot": "Ocho años después del reinado de anarquía del Joker, Batman, con la ayuda de la enigmática Catwoman, se ve obligado a salir de su exilio para salvar Gotham City del brutal terrorista guerrillero Bane.",
+    "country": "United States",
+    "genre": "Action, Drama",
+    "runtime": "164 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "87%",
+      "Metacritic": "78/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3014,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+    "plot": "El adolescente Miles Morales se convierte en el Spider-Man de su universo, y debe unirse con cinco individuos con poderes de araña de otras dimensiones para detener una amenaza para todas las realidades.",
+    "country": "United States",
+    "genre": "Animation, Action, Adventure",
+    "runtime": "117 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "97%",
+      "Metacritic": "87/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3015,
+    "title": "Joker",
+    "year": 2019,
+    "director": "Todd Phillips",
+    "actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "plot": "En Gotham City, el cómico mentalmente perturbado Arthur Fleck es ignorado y maltratado por la sociedad. Luego, se embarca en una espiral descendente de revolución y crimen sangriento. Este camino lo enfrenta cara a cara con su alter ego: el Joker.",
+    "country": "United States",
+    "genre": "Crime, Drama, Thriller",
+    "runtime": "122 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "68%",
+      "Metacritic": "59/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3016,
+    "title": "Old Boy",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "actors": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jung",
+    "plot": "Después de ser secuestrado y encarcelado durante quince años, Oh Dae-Su es liberado, solo para descubrir que debe encontrar a su captor en cinco días.",
+    "country": "South Korea",
+    "genre": "Action, Drama, Mystery",
+    "runtime": "120 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "81%",
+      "Metacritic": "77/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg"
+  },
+  {
+    "id": 934632,
+    "title": "Rebel Moon (Parte Dos): La Guerrera Que Deja Marcas",
+    "year": 2024,
+    "director": "Zack Snyder",
+    "actors": "Sofia Boutella, Charlie Hunnam, Michiel Huisman, Jena Malone",
+    "plot": "Los rebeldes se preparan para luchar contra las implacables fuerzas del Mundomadre mientras se forjan vínculos inquebrantables, surgen nuevos héroes y nacen las leyendas.",
+    "country": "USA",
+    "genre": "Sci-Fi, Action, Drama",
+    "runtime": "140 min",
+    "ratings": {
+        "IMDb": "6.1"
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",
+    "url": "No disponible"
+  },
+  {
+    "id": 3018,
+    "title": "Toy Story",
+    "year": 1995,
+    "director": "John Lasseter",
+    "actors": "Tom Hanks, Tim Allen, Don Rickles",
+    "plot": "Un muñeco vaquero se siente profundamente amenazado por el nuevo muñeco de astronauta en la colección de su dueño.",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "81 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "100%"
+    },
+    "poster": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg"
+  },
+  {
+    "id": 3019,
+    "title": "Amadeus",
+    "year": 1984,
+    "director": "Milos Forman",
+    "actors": "Tom Hulce, F. Murray Abraham, Elizabeth Berridge",
+    "plot": "La vida, el éxito y los problemas de Wolfgang Amadeus Mozart, contados por Antonio Salieri, el compositor contemporáneo que estaba locamente celoso del talento de Mozart y afirmó haberle asesinado.",
+    "country": "United States",
+    "genre": "Biography, Drama, Music",
+    "runtime": "160 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "93%",
+      "Metacritic": "88/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3020,
+    "title": "Coco",
+    "year": 2017,
+    "director": "Lee Unkrich, Adrian Molina",
+    "actors": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",
+    "plot": "Miguel, aspirante a músico, se enfrenta a la prohibición ancestral de su familia sobre la música y entra en la Tierra de los Muertos para encontrar a su tatarabuelo, un cantante legendario.",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "105 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "97%",
+      "Metacritic": "81/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg"
+  },
+  {
+    "id": 3021,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "director": "Jon Watts",
+    "actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+    "plot": "Una vez revelada la identidad de Spider-Man, Peter pide ayuda al Doctor Extraño. Cuando un hechizo sale mal, comienzan a aparecer peligrosos enemigos de otros mundos, obligando a Peter a descubrir lo que realmente significa ser Spider-Man.",
+    "country": "United States",
+    "genre": "Action, Adventure, Sci-Fi",
+    "runtime": "148 min",
+    "ratings": {
+      "IMDb": "8.5/10",
+      "Rotten Tomatoes": "93%",
+      "Metacritic": "71/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3022,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "actors": "Brad Pitt, Mélanie Laurent, Christoph Waltz",
+    "plot": "En la Francia ocupada por los nazis durante la Segunda Guerra Mundial, un plan para asesinar a los líderes nazis por parte de un grupo de soldados judíos estadounidenses coincide con los planes vengativos del propietario de un teatro para hacer lo mismo.",
+    "country": "Germany, United States",
+    "genre": "Adventure, Drama, War",
+    "runtime": "153 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "89%",
+      "Metacritic": "69/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3023,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "director": "Anthony Russo, Joe Russo",
+    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+    "plot": "Tras los devastadores acontecimientos de Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más con el fin de revertir las acciones de Thanos y restaurar el equilibrio en el universo.",
+    "country": "United States",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "181 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "94%",
+      "Metacritic": "78/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3024,
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "director": "Hayao Miyazaki",
+    "actors": "Yōji Matsuda, Yuriko Ishida, Minae Noji",
+    "plot": "En un viaje para encontrar la cura para la maldición de un Tatarigami, Ashitaka se encuentra en medio de una guerra entre los dioses del bosque y Tatara, una colonia minera. En esta búsqueda también conoce a San, la Mononoke Hime.",
+    "country": "Japan",
+    "genre": "Animation, Adventure, Drama",
+    "runtime": "134 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "93%",
+      "Metacritic": "76/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_SX300.jpg"
+  },
+  {
+    "id": 3025,
+    "title": "Toy Story 3",
+    "year": 2010,
+    "director": "Lee Unkrich",
+    "actors": "Tom Hanks, Tim Allen, Joan Cusack",
+    "plot": "Los juguetes son entregados por error a una guardería en lugar de al desván justo antes de que Andy se marche a la universidad, y depende de Woody convencer a los demás juguetes de que no han sido abandonados y de que vuelvan a casa.",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "103 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "98%",
+      "Metacritic": "92/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3026,
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "director": "Darren Aronofsky",
+    "actors": "Ellen Burstyn, Jared Leto, Jennifer Connelly",
+    "plot": "Las utopías inducidas por las drogas de cuatro habitantes de Coney Island se hacen añicos cuando sus adicciones se hacen profundas.",
+    "country": "United States",
+    "genre": "Drama",
+    "runtime": "102 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "79%",
+      "Metacritic": "68/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "id": 3027,
+    "title": "Your Name",
+    "year": 2016,
+    "director": "Makoto Shinkai",
+    "actors": "Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita",
+    "plot": "Dos extraños se encuentran unidos de una forma extraña. Mitsuha es una chica de instituto en un pueblo rural, mientras que Taki es un chico de instituto en Tokio. Empiezan a intercambiar sus cuerpos de forma intermitente, lo que crea un vínculo inesperado.",
+    "country": "Japan",
+    "genre": "Animation, Drama, Fantasy",
+    "runtime": "106 min",
+    "ratings": {
+      "IMDb": "8.9/10",
+      "Rotten Tomatoes": "98%",
+      "Metacritic": "82/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyNmI3M2YtNzYzZS00OTViLTkxYjAtZDIyZmE1Y2U1ZmQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+  },
+  {
+    "id": 3028,
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "director": "Richard Marquand",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "plot": "Tras una arriesgada misión para rescatar a Han Solo de Jabba el Hutt, los Rebeldes parten hacia Endor para destruir la segunda Estrella de la Muerte. Mientras tanto, Luke lucha por ayudar a Darth Vader a volver del lado oscuro sin caer en la trampa del Emperador.",
+    "country": "United States",
+    "genre": "Action, Adventure, Fantasy",
+    "runtime": "131 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "82%",
+      "Metacritic": "58/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3029,
+    "title": "Capernaum",
+    "year": 2018,
+    "director": "Nadine Labaki",
+    "actors": "Zain Al Rafeea, Yordanos Shiferaw, Nathalie Boutros",
+    "plot": "Mientras cumple una condena de cinco años por un delito violento, un niño de 12 años demanda a sus padres por negligencia.",
+    "country": "Lebanon",
+    "genre": "Drama",
+    "runtime": "126 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "90%",
+      "Metacritic": "75/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "id": 3030,
+    "title": "Scarface",
+    "year": 1983,
+    "director": "Brian De Palma",
+    "actors": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+    "plot": "En Miami de 1980, un determinado inmigrante cubano toma el control de un cartel de drogas y sucumbe a la codicia.",
+    "country": "United States",
+    "genre": "Crime, Drama",
+    "runtime": "170 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "81%",
+      "Metacritic": "65/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+  },
+  {
+    "id": 3031,
+    "title": "Come and See",
+    "year": 1985,
+    "director": "Elem Klimov",
+    "actors": "Aleksei Kravchenko, Olga Mironova, Liubomiras Laucevicius",
+    "plot": "Tras encontrar un viejo rifle, un joven se une al movimiento de resistencia soviético contra las despiadadas fuerzas alemanas y experimenta los horrores de la Segunda Guerra Mundial.",
+    "country": "Soviet Union",
+    "genre": "Drama, War",
+    "runtime": "142 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "97%",
+      "Metacritic": "N/A"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3032,
+    "title": "Taxi Driver",
+    "year": 1976,
+    "director": "Martin Scorsese",
+    "actors": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+    "plot": "Un veterano de guerra mentalmente inestable trabaja como taxista nocturno en Nueva York, donde la decadencia y la sordidez que percibe alimentan sus ansias de acción violenta.",
+    "country": "United States",
+    "genre": "Crime, Drama",
+    "runtime": "113 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "96%",
+      "Metacritic": "94/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3033,
+    "title": "Up",
+    "year": 2009,
+    "director": "Pete Docter, Bob Peterson",
+    "actors": "Ed Asner, Christopher Plummer, Jordan Nagai",
+    "plot": "Carl Fredricksen, un hombre de 78 años, viaja a las Cataratas del Paraíso en su casa equipada con globos, llevándose inadvertidamente a un joven polizón.",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "96 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "98%",
+      "Metacritic": "88/100"
+    },
+    "poster": "https://www.funeralnatural.net/sites/default/files/styles/v_300x450/public/pelicula/imagen/upcartel.jpg?itok=gAxACKFf"
+  },
+  {
+    "id": 3034,
+    "title": "Hamilton",
+    "year": 2020,
+    "director": "Thomas Kail",
+    "actors": "Lin-Manuel Miranda, Leslie Odom Jr., Phillipa Soo",
+    "plot": "La vida real de uno de los padres fundadores de América y primer Secretario del Tesoro, Alexander Hamilton. Capturado en vivo en Broadway con el elenco original.",
+    "country": "United States",
+    "genre": "Biography, Drama, History",
+    "runtime": "160 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "98%",
+      "Metacritic": "90/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3035,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "director": "Steven Spielberg",
+    "actors": "Harrison Ford, Sean Connery, Alison Doody",
+    "plot": "En 1938, después de que su padre, el Profesor Henry Jones, Sr., desaparece mientras busca el Santo Grial, el Profesor Henry 'Indiana' Jones, Jr. se enfrenta nuevamente a los nazis de Adolf Hitler para evitar que obtengan sus poderes.",
+    "country": "United States",
+    "genre": "Action, Adventure",
+    "runtime": "127 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "88%",
+      "Metacritic": "65/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+  },
+  {
+    "id": 3036,
+    "title": "1917",
+    "year": "2019",
+    "director": "Sam Mendes",
+    "actors": "Dean-Charles Chapman, George MacKay, Daniel Mays",
+    "plot": "6 de abril de 1917. Mientras un batallón de infantería se prepara para librar una guerra en el territorio enemigo, dos soldados son asignados para luchar contra el tiempo y entregar un mensaje que evitará que 1,600 hombres caminen directamente a una trampa mortal.",
+    "country": "United States",
+    "genre": "Action, Drama, War",
+    "runtime": "119 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "88%",
+      "Metacritic": "78/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg"
+  },
+  {
+    "id": 3037,
+    "title": "Batman Begins",
+    "year": "2005",
+    "director": "Christopher Nolan",
+    "actors": "Christian Bale, Michael Caine, Ken Watanabe",
+    "plot": "Después de entrenarse con su mentor, Batman comienza su lucha para liberar a Gotham City, plagada de crimen, de la corrupción.",
+    "country": "United States, United Kingdom",
+    "genre": "Action, Crime, Drama",
+    "runtime": "140 min",
+    "ratings": {
+      "IMDb": "8.3/10",
+      "Rotten Tomatoes": "84%",
+      "Metacritic": "70/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+  },
+  {
+    "id": 3038,
+    "title": "Dangal",
+    "year": "2016",
+    "director": "Nitesh Tiwari",
+    "actors": "Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",
+    "plot": "El exluchador Mahavir Singh Phogat y sus dos hijas luchadoras luchan por la gloria en los Juegos de la Commonwealth frente a la opresión social.",
+    "country": "India, United States",
+    "genre": "Action, Biography, Drama",
+    "runtime": "161 min",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "88%"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg"
+  },
+  {
+    "id": 3039,
+    "title": "La Caída /  El Hundimiento",
+    "year": "2004",
+    "director": "Oliver Hirschbiegel",
+    "actors": "Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",
+    "plot": "Traudl Junge, la última secretaria de Adolf Hitler, narra los últimos días del dictador nazi en su búnker de Berlín al final de la Segunda Guerra Mundial.",
+    "country": "Germany, Austria, Italy",
+    "genre": "Biography, Drama, History",
+    "runtime": "156 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "90%",
+      "Metacritic": "82/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_SX300.jpg"
+  },
+  {
+    "id": 3040,
+    "title": "The Batman",
+    "year": 2022,
+    "director": "Matt Reeves",
+    "plot": "Cuando el Acertijo, un asesino en serie sádico, comienza a asesinar a figuras políticas clave en Gotham, Batman se ve obligado a investigar la corrupción oculta de la ciudad y cuestionar la implicación de su familia.",
+    "runtime": "176 min",
+    "country": "United States",
+    "genre": "Action, Crime, Drama",
+    "actors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+    "ratings": {
+      "IMDb": "8.4/10",
+      "Rotten Tomatoes": "85%",
+      "Metacritic": "72/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg"
+  },
+  {
+    "id": 3041,
+    "title": "El Lobo de Wall Street",
+    "year": 2013,
+    "director": "Martin Scorsese",
+    "plot": "Basado en la verdadera historia de Jordan Belfort, desde su ascenso como corredor de bolsa rico viviendo la buena vida hasta su caída involucrando crimen, corrupción y el gobierno federal.",
+    "runtime": "180 min",
+    "country": "United States",
+    "genre": "Biography, Comedy, Crime",
+    "actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "79%",
+      "Metacritic": "75/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg"
+  },
+  {
+    "id": 3042,
+    "title": "Libro Verde",
+    "year": 2018,
+    "director": "Peter Farrelly",
+    "plot": "Un portero italoamericano de clase trabajadora se convierte en el conductor de un pianista clásico afroamericano en una gira por los lugares del sur de Estados Unidos en la década de 1960.",
+    "runtime": "130 min",
+    "country": "United States",
+    "genre": "Biography, Comedy, Drama",
+    "actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "77%",
+      "Metacritic": "69/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX300.jpg"
+  },
+  {
+    "id": 3043,
+    "title": "El Laberinto del Fauno",
+    "year": 2006,
+    "director": "Guillermo del Toro",
+    "plot": "En la España franquista de 1944, la joven hijastra de un oficial militar sádico escapa a un mundo de fantasía extraño pero cautivador.",
+    "runtime": "118 min",
+    "genre": "Drama, Fantasy, War",
+    "actors": "Ivana Baquero, Ariadna Gil, Sergi López",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "95%",
+      "Metacritic": "98/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "country": "Mexico, Spain"
+  },
+  {
+    "id": 3044,
+    "title": "Una Mente Brillante",
+    "year": 2001,
+    "director": "Ron Howard",
+    "plot": "Después de que John Nash, un brillante pero asocial matemático, acepta un trabajo secreto en criptografía, su vida toma un giro hacia lo pesadillesco.",
+    "runtime": "135 min",
+    "genre": "Biography, Drama",
+    "actors": "Russell Crowe, Ed Harris, Jennifer Connelly",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "74%",
+      "Metacritic": "72/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "country": "United States"
+  },
+  {
+    "id": 3045,
+    "title": "El Sexto Sentido",
+    "year": 1999,
+    "director": "M. Night Shyamalan",
+    "plot": "Un niño asustado y retraído de Filadelfia que comunica con espíritus busca la ayuda de un psicólogo infantil desalentado.",
+    "runtime": "107 min",
+    "genre": "Drama, Mystery, Thriller",
+    "actors": "Bruce Willis, Haley Joel Osment, Toni Collette",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "86%",
+      "Metacritic": "64/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "country": "United States"
+  },
+  {
+    "id": 3046,
+    "title": "Pozos de Sangre",
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "plot": "Una historia de familia, religión, odio, petróleo y locura, centrada en un prospector de principios del siglo XX en los primeros días del negocio petrolero.",
+    "runtime": "158 min",
+    "genre": "Drama",
+    "actors": "Daniel Day-Lewis, Paul Dano, Ciarán Hinds",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "91%",
+      "Metacritic": "93/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg",
+    "country": "United States"
+  },
+  {
+    "id": 3047,
+    "title": "Shutter Island",
+    "year": 2010,
+    "director": "Martin Scorsese",
+    "actors": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+    "plot": "En 1954, un mariscal de los Estados Unidos investiga la desaparición de un asesino que escapó de un hospital para criminales dementes.",
+    "country": "United States",
+    "genre": "Mystery, Thriller",
+    "runtime": "138 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "68%",
+      "Metacritic": "63/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "id": 3048,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "actors": "Sam Neill, Laura Dern, Jeff Goldblum",
+    "plot": "Un paleontólogo pragmático que visita un parque temático casi completo en una isla de América Central debe proteger a un par de niños después de que una falla de energía cause que los dinosaurios clonados del parque se descontrolen.",
+    "country": "United States",
+    "genre": "Action, Adventure, Sci-Fi",
+    "runtime": "127 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "92%",
+      "Metacritic": "68/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg"
+  },
+  {
+    "id": 3049,
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "director": "Quentin Tarantino",
+    "actors": "Uma Thurman, David Carradine, Daryl Hannah",
+    "plot": "Después de despertar de un coma de cuatro años, una ex asesina busca venganza contra el equipo de asesinos que la traicionó.",
+    "country": "United States",
+    "genre": "Action, Crime, Drama",
+    "runtime": "111 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "85%",
+      "Metacritic": "69/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+  },
+  {
+    "id": 3050,
+    "title": "Sin lugar para los débiles",
+    "year": 2007,
+    "director": "Ethan Coen, Joel Coen",
+    "actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+    "plot": "La violencia y el caos siguen a un cazador que encuentra un trato de drogas que salió mal y más de dos millones de dólares en efectivo cerca del Río Grande.",
+    "country": "United States",
+    "genre": "Crime, Drama, Thriller",
+    "runtime": "122 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "93%",
+      "Metacritic": "92/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3051,
+    "title": "Buscando a Nemo",
+    "year": 2003,
+    "director": "Andrew Stanton, Lee Unkrich",
+    "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "runtime": "100 min",
+    "genre": "Animation, Adventure, Comedy",
+    "actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "99%",
+      "Metacritic": "90/100"
+    },
+    "poster": "https://es.web.img3.acsta.net/pictures/14/02/13/11/08/054573.jpg",
+    "country": "United States, Australia"
+  },
+  {
+    "id": 3052,
+    "title": "V for Vendetta",
+    "year": 2005,
+    "director": "James McTeigue",
+    "actors": "Hugo Weaving, Natalie Portman, Rupert Graves",
+    "plot": "En una tiranía británica futura, un enigmático luchador por la libertad, conocido solo por el alias de \"V\", planea derrocarla con la ayuda de una joven.",
+    "country": "United States, United Kingdom, Germany",
+    "genre": "Action, Drama, Sci-Fi",
+    "runtime": "132 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "73%",
+      "Metacritic": "62/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg"
+  },
+  {
+    "id": 3053,
+    "title": "Intensamente",
+    "year": 2015,
+    "director": "Pete Docter, Ronnie Del Carmen",
+    "actors": "Amy Poehler, Bill Hader, Lewis Black",
+    "plot": "Después de que Riley, una joven, se muda de su vida en el Medio Oeste a San Francisco, sus emociones - Alegría, Miedo, Ira, Desprecio y Tristeza - entran en conflicto sobre cómo navegar en una nueva ciudad, casa y escuela.",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "95 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "98%",
+      "Metacritic": "94/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg"
+  },
+  {
+    "id": 3054,
+    "title": "El secreto de sus ojos",
+    "year": 2009,
+    "director": "Juan José Campanella",
+    "actors": "Ricardo Darín, Soledad Villamil, Pablo Rago",
+    "plot": "Un asesor legal retirado escribe una novela con la esperanza de encontrar cierre para uno de sus casos de homicidio no resueltos y para su amor no correspondido con su superior, ambos los cuales aún lo atormentan décadas después.",
+    "country": "Argentina, Spain",
+    "genre": "Drama, Mystery, Romance",
+    "runtime": "129 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "89%",
+      "Metacritic": "80/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "id": 3055,
+    "title": "El castillo ambulante",
+    "year": 2004,
+    "director": "Hayao Miyazaki",
+    "actors": "Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",
+    "plot": "Cuando una joven poco segura de sí misma es maldecida con un cuerpo viejo por una bruja rencorosa, su única oportunidad de romper el hechizo está con un joven mago autoindulgente pero inseguro y sus compañeros en su castillo ambulante.",
+    "country": "Japan",
+    "genre": "Animation, Adventure, Family",
+    "runtime": "119 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "87%",
+      "Metacritic": "80/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+  },
+  {
+    "id": 3056,
+    "title": "Tres anuncios en las afueras de Ebbing, Missouri",
+    "year": 2017,
+    "director": "Martin McDonagh",
+    "actors": "Frances McDormand, Woody Harrelson, Sam Rockwell",
+    "plot": "Una madre desafía personalmente a las autoridades locales para resolver el asesinato de su hija cuando no logran atrapar al culpable.",
+    "country": "Reino Unido, Estados Unidos",
+    "genre": "Comedia, Crimen, Drama",
+    "runtime": "115 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "91%",
+      "Metacritic": "88/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Guerrero",
+    "year": 2011,
+    "director": "Gavin O'Connor",
+    "actors": "Tom Hardy, Nick Nolte, Joel Edgerton",
+    "plot": "El hijo menor de un antiguo boxeador alcohólico regresa a casa, donde es entrenado por su padre para competir en un torneo de artes marciales mixtas, un camino que lo pone en curso de colisión con su hermano mayor con el que está distanciado.",
+    "country": "Estados Unidos",
+    "genre": "Acción, Drama, Deporte",
+    "runtime": "140 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "84%",
+      "Metacritic": "71/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_SX300.jpg",
+    "id": 3057
+  },
+  {
+    "title": "Gran Torino",
+    "year": 2008,
+    "director": "Clint Eastwood",
+    "actors": "Clint Eastwood, Bee Vang, Christopher Carley",
+    "plot": "El veterano de la Guerra de Corea, Walt Kowalski, se propone reformar a su vecino, Thao Lor, un adolescente Hmong que intentó robar la posesión más preciada de Kowalski: un Gran Torino 1972.",
+    "country": "Alemania, Estados Unidos",
+    "genre": "Drama",
+    "runtime": "116 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "81%",
+      "Metacritic": "72/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SX300.jpg",
+    "id": 3058
+  },
+  {
+    "title": "Mi vecino Totoro",
+    "year": 1988,
+    "director": "Hayao Miyazaki",
+    "actors": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",
+    "plot": "Cuando dos niñas se mudan al campo para estar cerca de su madre enferma, viven aventuras con los maravillosos espíritus del bosque que viven cerca.",
+    "country": "Japón",
+    "genre": "Animación, Comedia, Familiar",
+    "runtime": "86 min",
+    "ratings": {
+      "IMDb": "8.2/10",
+      "Rotten Tomatoes": "94%",
+      "Metacritic": "86/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "id": 3059
+  },
+  {
+    "title": "Prisioneros",
+    "year": 2013,
+    "director": "Denis Villeneuve",
+    "actors": "Hugh Jackman, Jake Gyllenhaal, Viola Davis",
+    "plot": "Cuando la hija de Keller Dover y su amiga desaparecen, él toma el asunto en sus propias manos mientras la policía sigue varias pistas y la presión aumenta.",
+    "country": "Estados Unidos",
+    "genre": "Crimen, Drama, Misterio",
+    "runtime": "153 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "81%",
+      "Metacritic": "70/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg",
+    "id": 3060
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "director": "Clint Eastwood",
+    "actors": "Hilary Swank, Clint Eastwood, Morgan Freeman",
+    "plot": "Una mujer decidida trabaja con un entrenador de boxeo endurecido para convertirse en profesional.",
+    "country": "Estados Unidos",
+    "genre": "Drama, Deporte",
+    "runtime": "132 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "90%",
+      "Metacritic": "86/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SX300.jpg",
+    "id": 3061
+  },
+  {
+    "title": "Atrápame si puedes",
+    "year": 2002,
+    "director": "Steven Spielberg",
+    "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken",
+    "plot": "Apenas con 21 años, Frank es un hábil falsificador que ha pasado por médico, abogado y piloto. El agente del FBI Carl se obsesiona con rastrear al estafador, quien solo disfruta de la persecución.",
+    "country": "Estados Unidos, Canadá",
+    "genre": "Biografía, Crimen, Drama",
+    "runtime": "141 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "96%",
+      "Metacritic": "75/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+    "id": 3062
+  },
+  {
+    "title": "Children of Heaven",
+    "year": 1997,
+    "director": "Majid Majidi",
+    "actors": "Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi",
+    "plot": "Después de que un niño pierde el par de zapatos de su hermana, se embarca en una serie de aventuras para encontrarlos. Cuando no lo logra, intenta una nueva forma de 'ganar' un nuevo par.",
+    "country": "Irán",
+    "genre": "Drama, Familia, Deporte",
+    "runtime": "89 min",
+    "ratings": {
+      "IMDb": "8.2",
+      "Rotten Tomatoes": "83%",
+      "Metacritic": "77/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "id": 3063
+  },
+  {
+    "title": "Harry Potter y las Reliquias de la Muerte: Parte 2",
+    "year": 2011,
+    "director": "David Yates",
+    "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+    "plot": "Harry, Ron y Hermione buscan los Horrocruxes restantes de Voldemort en su esfuerzo por destruir al Señor Tenebroso mientras la batalla final se libra en Hogwarts.",
+    "country": "Reino Unido, Estados Unidos",
+    "genre": "Aventura, Fantasía, Misterio",
+    "runtime": "130 min",
+    "ratings": {
+      "IMDb": "8.2",
+      "Rotten Tomatoes": "96%",
+      "Metacritic": "85/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "id": 3064
+  },
+  {
+    "title": "Gone Girl (Perdida)",
+    "year": 2014,
+    "director": "David Fincher",
+    "actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+    "plot": "Con la desaparición de su esposa convirtiéndose en el centro de un intenso circo mediático, un hombre ve el foco puesto sobre él cuando se sospecha que no es inocente.",
+    "country": "Estados Unidos",
+    "genre": "Drama, Misterio, Thriller",
+    "runtime": "149 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "87%",
+      "Metacritic": "79/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
+    "id": 3065
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "director": "Steve McQueen",
+    "actors": "Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",
+    "plot": "En el Estados Unidos antebellum, Solomon Northup, un hombre negro libre del norte del estado de Nueva York, es secuestrado y vendido como esclavo.",
+    "country": "Estados Unidos, Reino Unido",
+    "genre": "Biografía, Drama, Historia",
+    "runtime": "134 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "95%",
+      "Metacritic": "96/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg",
+    "id": 3066
+  },
+  {
+    "title": "Room",
+    "year": 2015,
+    "director": "Lenny Abrahamson",
+    "actors": "Brie Larson, Jacob Tremblay, Sean Bridgers",
+    "plot": "Después de ser retenida cautiva durante 7 años en un espacio cerrado, una mujer y su joven hijo finalmente logran escapar, permitiendo que el niño experimente el mundo exterior por primera vez.",
+    "country": "Irlanda, Canadá, Reino Unido, Estados Unidos",
+    "genre": "Drama, Thriller",
+    "runtime": "118 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "93%",
+      "Metacritic": "86/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+    "id": 3067
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "director": "Mel Gibson",
+    "actors": "Andrew Garfield, Sam Worthington, Luke Bracey",
+    "plot": "El médico del ejército estadounidense Desmond T. Doss, que sirvió durante la Batalla de Okinawa en la Segunda Guerra Mundial, se niega a matar personas y se convierte en el primer hombre en la historia de Estados Unidos en recibir la Medalla de Honor sin disparar un solo tiro.",
+    "country": "Australia, Estados Unidos",
+    "genre": "Biography, Drama, History",
+    "runtime": "139 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "84%",
+      "Metacritic": "71/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg",
+    "id": 3068
+  },
+  {
+    "title": "Cómo entrenar a tu dragón",
+    "year": 2010,
+    "director": "Dean DeBlois, Chris Sanders",
+    "actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+    "plot": "Un joven vikingo torpe que aspira a cazar dragones se convierte en el amigo improbable de un joven dragón y descubre que podría haber más en estas criaturas de lo que había supuesto.",
+    "country": "Estados Unidos",
+    "genre": "Animation, Action, Adventure",
+    "runtime": "98 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "99%",
+      "Metacritic": "75/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+    "id": 3069
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "director": "Bong Joon Ho",
+    "actors": "Kang-ho Song, Kim Sang-kyung, Roe-ha Kim",
+    "plot": "En una pequeña provincia coreana en 1986, dos detectives luchan con el caso de varias mujeres jóvenes que son encontradas violadas y asesinadas por un culpable desconocido.",
+    "country": "Corea del Sur",
+    "genre": "Crime, Drama, Mystery",
+    "runtime": "132 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "N/A",
+      "Metacritic": "82/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "id": 3070
+  },
+  {
+    "title": "Klaus",
+    "year": 2019,
+    "director": "Sergio Pablos, Carlos Martínez López",
+    "actors": "Jason Schwartzman, J.K. Simmons, Rashida Jones",
+    "plot": "Un simple acto de bondad siempre inspira otro, incluso en un lugar lejano y helado. Cuando el nuevo cartero de Smeerensburg, Jesper, se hace amigo del juguetero Klaus, sus regalos disuelven una antigua enemistad y entregan un trineo lleno de tradiciones navideñas.",
+    "country": "España, Reino Unido",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "96 min",
+    "ratings": {
+      "IMDb": "8.2",
+      "Rotten Tomatoes": "94%",
+      "Metacritic": "65/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "id": 3071
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "director": "George Miller",
+    "actors": "Tom Hardy, Charlize Theron, Nicholas Hoult",
+    "plot": "En un páramo post-apocalíptico, una mujer se rebela contra un gobernante tiránico en busca de su tierra natal, con la ayuda de un grupo de prisioneras, un adorador psicótico y un vagabundo llamado Max.",
+    "country": "Australia, Estados Unidos",
+    "genre": "Action, Adventure, Sci-Fi",
+    "runtime": "120 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "97%",
+      "Metacritic": "90/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "id": 3072
+  },
+  {
+    "title": "Relatos Salvajes",
+    "year": 2014,
+    "director": "Damián Szifron",
+    "actors": "Darío Grandinetti, María Marull, Mónica Villa",
+    "plot": "Seis cortometrajes que exploran las extremidades del comportamiento humano involucrando a personas en situaciones de angustia.",
+    "country": "Argentina, España, Francia, Reino Unido",
+    "genre": "Comedy, Drama, Thriller",
+    "runtime": "122 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "94%",
+      "Metacritic": "77/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "id": 3073
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "director": "Pete Docter, David Silverman, Lee Unkrich",
+    "actors": "Billy Crystal, John Goodman, Mary Gibbs",
+    "plot": "Para poder alimentar la ciudad, los monstruos deben asustar a los niños para que griten. Sin embargo, los niños son tóxicos para los monstruos, y después de que un niño atraviesa su mundo, dos monstruos se dan cuenta de que las cosas pueden no ser lo que parecen.",
+    "country": "Estados Unidos",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "92 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "96%",
+      "Metacritic": "79/100"
+    },
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/p_monstersinc_19751_55afa07a.jpeg",
+    "id": 3074
+  },
+  {
+    "title": "La Red Social",
+    "year": 2010,
+    "director": "David Fincher",
+    "actors": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+    "plot": "Como la creación de un sitio social conocido como Facebook cambia la vida social de un estudiante de Harvard, es demandado por aquellos que afirman haberle robado la idea, y por el cofundador que fue expulsado del negocio.",
+    "country": "Estados Unidos",
+    "genre": "Biography, Drama",
+    "runtime": "120 min",
+    "ratings": {
+      "IMDb": "7.8",
+      "Rotten Tomatoes": "96%",
+      "Metacritic": "95/100"
+    },
+    "poster": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/79/46/17/19515717.jpg",
+    "id": 3075
+  },
+  {
+    "title": "Mary and Max",
+    "year": 2009,
+    "director": "Adam Elliot",
+    "actors": "Toni Collette, Philip Seymour Hoffman, Eric Bana",
+    "plot": "Una historia de amistad entre dos amigos por correspondencia poco probables: Mary, una niña solitaria de ocho años que vive en los suburbios de Melbourne, y Max, un hombre de 44 años, severamente obeso, que vive en Nueva York.",
+    "country": "Australia",
+    "genre": "Animation, Comedy, Drama",
+    "runtime": "92 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "95%",
+      "Metacritic": "N/A"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "id": 3076
+  },
+  {
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "director": "Terry George",
+    "actors": "Don Cheadle, Sophie Okonedo, Joaquin Phoenix",
+    "plot": "Paul Rusesabagina, un gerente de hotel, alberga a más de mil refugiados tutsis durante su lucha contra la milicia hutu en Ruanda, África.",
+    "country": "Reino Unido, Sudáfrica, Italia, Estados Unidos",
+    "genre": "Biography, Drama, History",
+    "runtime": "121 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "91%",
+      "Metacritic": "79/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "id": 3077
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "director": "John G. Avildsen",
+    "actors": "Sylvester Stallone, Talia Shire, Burt Young",
+    "plot": "Un boxeador de Filadelfia de bajo nivel obtiene una oportunidad extremadamente rara de luchar contra el campeón mundial de peso pesado en una pelea en la que se esfuerza por llegar hasta el final para recuperar su autoestima.",
+    "country": "Estados Unidos",
+    "genre": "Drama, Sport",
+    "runtime": "120 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "91%",
+      "Metacritic": "70/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX300.jpg",
+    "id": 3078
+  },
+  {
+    "title": "Ford v Ferrari",
+    "year": 2019,
+    "director": "James Mangold",
+    "actors": "Matt Damon, Christian Bale, Jon Bernthal",
+    "plot": "El diseñador de automóviles estadounidense Carroll Shelby y el conductor Ken Miles luchan contra la interferencia corporativa y las leyes de la física para construir un auto de carreras revolucionario para Ford con el fin de derrotar a Ferrari en las 24 Horas de Le Mans en 1966.",
+    "country": "Estados Unidos",
+    "genre": "Action, Biography, Drama",
+    "runtime": "152 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "92%",
+      "Metacritic": "81/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SX300.jpg",
+    "id": 3079
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "director": "James Cameron",
+    "actors": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
+    "plot": "Un soldado humano es enviado desde 2029 a 1984 para detener a una máquina asesina cibernética casi indestructible, enviada desde el mismo año, que ha sido programada para ejecutar a una joven cuyo hijo aún no nacido es la clave para la futura salvación de la humanidad.",
+    "country": "Reino Unido, Estados Unidos",
+    "genre": "Action, Sci-Fi",
+    "runtime": "107 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "100%",
+      "Metacritic": "84/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "id": 3080
+  },
+  {
+    "title": "Stand by Me",
+    "year": 1986,
+    "director": "Rob Reiner",
+    "actors": "Wil Wheaton, River Phoenix, Corey Feldman",
+    "plot": "Después de la muerte de uno de sus amigos, un escritor rememora un viaje de infancia con sus amigos para encontrar el cuerpo de un niño desaparecido.",
+    "country": "Estados Unidos",
+    "genre": "Adventure, Drama",
+    "runtime": "89 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "91%",
+      "Metacritic": "75/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "id": 3081
+  },
+  {
+    "title": "Rush",
+    "year": 2013,
+    "director": "Ron Howard",
+    "actors": "Daniel Brühl, Chris Hemsworth, Olivia Wilde",
+    "plot": "La despiadada rivalidad de la Fórmula Uno en la década de 1970 entre los rivales James Hunt y Niki Lauda.",
+    "country": "Reino Unido, Estados Unidos",
+    "genre": "Action, Biography, Drama",
+    "runtime": "123 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "89%",
+      "Metacritic": "74/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "id": 3082
+  },
+  {
+    "title": "Hacia rutas salvajes",
+    "year": 2007,
+    "director": "Sean Penn",
+    "actors": "Emile Hirsch, Vince Vaughn, Catherine Keener",
+    "plot": "Después de graduarse de la Universidad Emory, el destacado estudiante y atleta Christopher McCandless abandona todas sus posesiones, dona toda su cuenta de ahorros de $24,000 a la caridad y se dirige a Alaska para vivir en la naturaleza. En el camino, conoce a personajes que dan forma a su vida.",
+    "country": "Estados Unidos",
+    "genre": "Adventure, Biography, Drama",
+    "runtime": "148 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "83%",
+      "Metacritic": "73/100"
+    },
+    "poster": "https://iili.io/dNktF7p.jpg",
+    "id": 3083
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "director": "James Mangold",
+    "actors": "Hugh Jackman, Patrick Stewart, Dafne Keen",
+    "plot": "En un futuro cercano, un Logan cansado cuida de un enfermo Profesor X en un escondite en la frontera mexicana. Pero los intentos de Logan por esconderse del mundo y de su legado terminan cuando una joven mutante llega, perseguida por fuerzas oscuras.",
+    "country": "Estados Unidos",
+    "genre": "Action, Drama, Sci-Fi",
+    "runtime": "137 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "94%",
+      "Metacritic": "77/100"
+    },
+    "poster": "https://iili.io/dNkD3Mu.jpg",
+    "id": 3084
+  },
+  {
+    "title": "Spotlight",
+    "year": 2015,
+    "director": "Tom McCarthy",
+    "actors": "Mark Ruffalo, Michael Keaton, Rachel McAdams",
+    "plot": "La historia real de cómo el Boston Globe descubrió el enorme escándalo de abuso infantil y encubrimiento dentro de la Arquidiócesis Católica local, sacudiendo a toda la Iglesia Católica hasta su núcleo.",
+    "country": "Estados Unidos",
+    "genre": "Biography, Crime, Drama",
+    "runtime": "129 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "97%",
+      "Metacritic": "93/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
+    "id": 3085
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "director": "Harold Ramis",
+    "actors": "Bill Murray, Andie MacDowell, Chris Elliott",
+    "plot": "Un meteorólogo egoísta de Pittsburgh se encuentra inexplicablemente atrapado en un pequeño pueblo, viviendo el mismo día una y otra vez.",
+    "country": "Estados Unidos",
+    "genre": "Comedy, Drama, Fantasy",
+    "runtime": "101 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "97%",
+      "Metacritic": "72/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "id": 3086
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "director": "Brad Bird, Jan Pinkava",
+    "actors": "Brad Garrett, Lou Romano, Patton Oswalt",
+    "plot": "Un ratón que puede cocinar forma una alianza inusual con un joven trabajador de cocina en un famoso restaurante de París.",
+    "country": "Estados Unidos",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "111 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "96%",
+      "Metacritic": "96/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg",
+    "id": 3087
+  },
+  {
+    "title": "Hachi: Historia de un perro",
+    "year": 2009,
+    "director": "Lasse Hallström",
+    "actors": "Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",
+    "plot": "Un profesor universitario establece un vínculo con un perro abandonado que lleva a su hogar.",
+    "country": "Reino Unido, Estados Unidos",
+    "genre": "Biography, Drama, Family",
+    "runtime": "93 min",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "64%"
+    },
+    "poster": "https://iili.io/dNky9Ub.jpg",
+    "id": 3088
+  },
+  {
+    "title": "Los Increíbles",
+    "year": 2004,
+    "director": "Brad Bird",
+    "actors": "Craig T. Nelson, Samuel L. Jackson, Holly Hunter",
+    "plot": "Una familia de superhéroes encubiertos, mientras intenta vivir una vida suburbana tranquila, se ve obligada a entrar en acción para salvar el mundo.",
+    "country": "Estados Unidos",
+    "genre": "Animation, Action, Adventure",
+    "runtime": "115 min",
+    "ratings": {
+      "IMDb": "8.0",
+      "Metacritic": "90/100"
+    },
+    "poster": "https://iili.io/dNkykdb.jpg",
+    "id": 3089
+  },
+  {
+    "title": "Piratas del Caribe: La maldición de la Perla Negra",
+    "year": 2003,
+    "director": "Gore Verbinski",
+    "actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+    "plot": "El herrero Will Turner se une al excéntrico pirata \"Capitán\" Jack Sparrow para salvar a su amor, la hija del gobernador, de los antiguos aliados piratas de Jack, que ahora son no muertos.",
+    "country": "Estados Unidos",
+    "genre": "Action, Adventure, Fantasy",
+    "runtime": "143 min",
+    "ratings": {
+      "IMDb": "8.0",
+      "Rotten Tomatoes": "80%",
+      "Metacritic": "63/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "id": 3090
+  },
+  {
+    "title": "Amores perros",
+    "year": 2000,
+    "director": "Alejandro G. Iñárritu",
+    "actors": "Emilio Echevarría, Gael García Bernal, Goya Toledo",
+    "plot": "Un horrendo accidente de coche conecta tres historias, cada una con personajes lidiando con la pérdida, el arrepentimiento y las duras realidades de la vida, todo en nombre del amor.",
+    "country": "Mexico",
+    "genre": "Drama, Thriller",
+    "runtime": "154 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "93%",
+      "Metacritic": "83/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_SX300.jpg",
+    "id": 3091
+  },
+  {
+    "title": "Aladdin",
+    "year": 1992,
+    "director": "Ron Clements, John Musker",
+    "actors": "Scott Weinger, Robin Williams, Linda Larkin",
+    "plot": "Un bondadoso huérfano de la calle y un vizir ansioso de poder compiten por una lámpara mágica que tiene el poder de cumplir sus deseos más profundos.",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "runtime": "90 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "95%",
+      "Metacritic": "86/100"
+    },
+    "poster": "https://iili.io/dNvHztp.jpg",
+    "id": 3092
+  },
+  {
+    "title": "Dune",
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+    "plot": "Adaptación cinematográfica de la novela de ciencia ficción de Frank Herbert sobre el hijo de una familia noble encargado de la protección del activo más valioso y el elemento más vital en la galaxia.",
+    "country": "United States, Canada",
+    "genre": "Action, Adventure, Drama",
+    "runtime": "155 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "84%",
+      "Metacritic": "74/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "id": 3093
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "director": "Gary Trousdale, Kirk Wise",
+    "actors": "Paige O'Hara, Robby Benson, Jesse Corti",
+    "plot": "Un príncipe maldito que pasa sus días como un monstruo horrendo busca recuperar su humanidad ganándose el amor de una joven.",
+    "country": "United States",
+    "genre": "Animation, Family, Fantasy",
+    "runtime": "84 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "94%",
+      "Metacritic": "95/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "id": 3094
+  },
+  {
+    "title": "The Help",
+    "year": 2011,
+    "director": "Tate Taylor",
+    "actors": "Emma Stone, Viola Davis, Octavia Spencer",
+    "plot": "Una aspirante a autora durante el movimiento de derechos civiles de la década de 1960 decide escribir un libro detallando el punto de vista de las sirvientas afroamericanas sobre las familias blancas para las que trabajan y las dificultades que enfrentan a diario.",
+    "country": "United States",
+    "genre": "Drama",
+    "runtime": "146 min",
+    "ratings": {
+      "IMDb": "8.1/10",
+      "Rotten Tomatoes": "76%",
+      "Metacritic": "62/100"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX300.jpg",
+    "id": 3095
+  }
+]

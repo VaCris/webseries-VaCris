@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             
             setTimeout(function () {
-                window.location.href = "src/public/home.html";
+                window.location.href = "../../public/pages/Home.html";
             }, 2500); 
 			});
 		} else {
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
 					popupElement.classList.remove("active");
 
 					
-					window.location.href = "src/public/home.html";
+					window.location.href = "../../public/pages/Home.html";
 				});
 			} else {
 				console.error("No se encontró el botón 'success-popup-btn' en el DOM.");

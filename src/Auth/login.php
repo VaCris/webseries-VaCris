@@ -44,6 +44,6 @@ if (isset($_POST['email'], $_POST['password'])) {
     mysqli_stmt_close($stmtSelect);
     mysqli_close($conexion);
 } else {
-    $error_message = "Error: una o más claves no existen en el array \$_POST";
+    $error_message = "Error: una o más claves no existen en el array $_POST";
 }
 

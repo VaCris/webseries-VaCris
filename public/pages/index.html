@@ -8,12 +8,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="icon" type="image/png" href="../sptv.png">
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-    <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
+    <link rel="icon" href="https://iili.io/dOutseI.jpg">
     <style>
         .carousel-control-prev,
         .carousel-control-next {
@@ -125,17 +122,54 @@
         .cate-image:hover {
             transform: scale(1.1);
         }
+        .search-container {
+            position: relative;
+          }
+          #Buscador {
+              width: 0;
+              border: transparent;
+              border-bottom: solid 1px #ccc;
+              padding: 10px 10px 10px 30px;
+              outline: none;
+              transition: width 0.4s ease, padding 0.4s ease;
+            }
+          #Buscador.expanded {
+            width: 500px;
+            padding: 10px 10px 10px 30px;
+          }
+          .search-toggle {
+              position: absolute;
+              top: 50%;
+              left: 5px;
+              transform: translateY(-50%);
+              cursor: pointer;
+              font-size: 24px;
+          }
+          .search-container input {
+              padding-left: 40px;
+          }  
     </style>
 
 </head>
 <body>
+
     <nav>
         <ul class="sidebar">
             <li onclick="hideSidebar()"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" fill="white" viewBox="0 -960 960 960" width="26"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></a></li>
             <li><a href="../../../public/pages/Home.html">Home</a></li>
             <li><a href="../../../public/pages/Perfil.html">Perfil</a></li>
             <li><a href="../../../public/pages/About.html">Ayuda</a></li>
+            <li><a href="#">Cerrar Sesion</a></li>
         </ul>
+        
+        <div class="relative search-container">
+            <a href="#" class="search-toggle">
+              <i class="material-icons">search</i>
+            </a>
+            <input type="" placeholder="Busca..." id="Buscador" />
+        </div>
+
+
         <ul>
             <li class=""><a href="#">SP-TV</a></li>
             <li class="hideOnMobile"><a href="../../../public/pages/Home.html">Inicio</a></li>
@@ -146,11 +180,6 @@
         </ul>
     </nav>
     
-    <div class="search">
-        <input type="text" placeholder="Buscar...">
-        <button>🔍</button>
-    </div>
-
     <main>
         <section class="featured">
             <h2>Destacados</h2>
@@ -177,7 +206,7 @@
             </div>
         </div>
 
-        <section class="movies">
+        <section class="moviei">
             <h2>Películas</h2>
             <div class="movies-list">
                 <!-- imagen peli -->
@@ -216,7 +245,11 @@
     <footer>
         <p>&copy; SP-TV</p>
     </footer>
-
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="https://cdn.plyr.io/3.6.8/plyr.js"></script>
+    <script src="../../src/Auth/carrusel_data.js"></script>
     <script>
         function showArrows() {
             document.querySelector('.carousel-control-prev').style.display = 'block';
@@ -285,7 +318,7 @@
                     data.results.forEach(movie => {
                         const movieHTML = `
                             <a href="movie_details.html?id=${movie.id}">
-                                <img class="movie-image" style="width: 200px; height: 300px; cursor: pointer;" src="https://image.tmdb.org/t/p/w500/${movie.poster_path}" alt="${movie.title}">
+                                <img class="peli-image" style="width: 200px; height: 300px; cursor: pointer;" src="https://image.tmdb.org/t/p/w500/${movie.poster_path}" alt="${movie.title}">
                             </a>
                         `;
                         moviesList.innerHTML += movieHTML;
@@ -324,7 +357,5 @@
             sidebar.style.display = 'none';
         }
     </script>
-
-    <script src="../../src/Auth/carrusel_data.js"></script>
 </body>
 </html>

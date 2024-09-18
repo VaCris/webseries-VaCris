@@ -862,8 +862,6 @@
         "runtime": 143,
         "adult": false,
         "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-        "budget": 220000000,
-        "homepage": "https://www.marvel.com/movies/the-avengers",
         "imdb_id": "tt0848228",
         "original_language": "en",
         "original_title": "The Avengers",
@@ -875,8 +873,9 @@
         "production_companies": "Marvel Studios",
         "production_countries": "United States of America",
         "spoken_languages": "English, Hindi, Russian"
-      }
+      }   
     ],
     "total_pages": 232,
     "total_results": 4634
   }
+  

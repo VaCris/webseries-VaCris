@@ -1,437 +1,114 @@
-{
-    "page": 1,
-    "results": [
-      {
-        "adult": false,
-        "backdrop_path": "/mc3rG5M9dFVjMfaCFNfbD5gu2pK.jpg",
-        "genre_ids": [
-          16,
-          35
-        ],
-        "id": 1433,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "American Dad!",
-        "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
-        "popularity": 5399.802,
-        "poster_path": "/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg",
-        "first_air_date": "2005-02-06",
-        "name": "American Dad!",
-        "vote_average": 6.9,
-        "vote_count": 2016
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/hib8MpBPU7GdluS38htXCF4uw0c.jpg",
-        "genre_ids": [
-          80,
-          18,
-          9648
-        ],
-        "id": 2734,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Law & Order: Special Victims Unit",
-        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-        "popularity": 4535.14,
-        "poster_path": "/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg",
-        "first_air_date": "1999-09-20",
-        "name": "Law & Order: Special Victims Unit",
-        "vote_average": 7.935,
-        "vote_count": 3662
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/eLGICVIbVWke9U8SnUVrtXdwrlC.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "The Rookie",
-        "overview": "Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-        "popularity": 4137.927,
-        "poster_path": "/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg",
-        "first_air_date": "2018-10-16",
-        "name": "The Rookie",
-        "vote_average": 8.396,
-        "vote_count": 1790
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/jLCuqeDkoSOmnyOoAm4PbiqoUV6.jpg",
-        "genre_ids": [
-          80,
-          18
-        ],
-        "id": 549,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Law & Order",
-        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-        "popularity": 3864.591,
-        "poster_path": "/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg",
-        "first_air_date": "1990-09-13",
-        "name": "Law & Order",
-        "vote_average": 7.377,
-        "vote_count": 541
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/6l7O7n5dU6XySIeuvGsWWD9dlXj.jpg",
-        "genre_ids": [
-          10765,
-          35,
-          10751,
-          18
-        ],
-        "id": 4482,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Bewitched",
-        "overview": "Samantha Stephens is a seemingly normal suburban housewife who also happens to be a genuine witch, with all the requisite magical powers. Her husband Darrin insists that Samantha keep her witchcraft under wraps, but situations invariably require her to indulge her powers while keeping her bothersome mother Endora at bay.",
-        "popularity": 3828.783,
-        "poster_path": "/7UZVO1SclbgVWM2ELrwWGaS7i94.jpg",
-        "first_air_date": "1964-09-17",
-        "name": "Bewitched",
-        "vote_average": 7.89,
-        "vote_count": 663
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/AtpwBlRH4yHLMLXqMFTrX1PJXFp.jpg",
-        "genre_ids": [
-          18,
-          35,
-          10759,
-          80
-        ],
-        "id": 2389,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Las Vegas",
-        "overview": "Ed Deline is a strict ex-CIA officer who went from being Head of Security to becoming President of Operations of the Montecito, whose job is to run the day-to-day operations of the casino. Following his departure, former Marine Danny McCoy, Ed's former protégé, becomes the Montecito's new President of Operations.",
-        "popularity": 3502.171,
-        "poster_path": "/dDPJmvgbs1nMqFBbIdB67w9YCHe.jpg",
-        "first_air_date": "2003-09-22",
-        "name": "Las Vegas",
-        "vote_average": 6.959,
-        "vote_count": 207
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/7uihCghJiyYFTXSh1BOPdHQN8xK.jpg",
-        "genre_ids": [
-          16,
-          35
-        ],
-        "id": 2190,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "South Park",
-        "overview": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "popularity": 3124.328,
-        "poster_path": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
-        "first_air_date": "1997-08-13",
-        "name": "South Park",
-        "vote_average": 8.357,
-        "vote_count": 4101
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/nmg2lY4QuyXQrAnrC2lRblK5rT6.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1416,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Grey's Anatomy",
-        "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
-        "popularity": 3124.015,
-        "poster_path": "/jcEl8SISNfGdlQFwLzeEtsjDvpw.jpg",
-        "first_air_date": "2005-03-27",
-        "name": "Grey's Anatomy",
-        "vote_average": 8.242,
-        "vote_count": 9953
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          10765
-        ],
-        "id": 121,
-        "origin_country": [
-          "GB"
-        ],
-        "original_language": "en",
-        "original_name": "Doctor Who",
-        "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
-        "popularity": 2948.292,
-        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
-        "first_air_date": "1963-11-23",
-        "name": "Doctor Who",
-        "vote_average": 7.883,
-        "vote_count": 592
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/xgnzI5n1Ubl4kwq4TVW8vP7oe4g.jpg",
-        "genre_ids": [
-          35,
-          10751,
-          10762,
-          18
-        ],
-        "id": 61852,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Henry Danger",
-        "overview": "When 13-year-old Henry Hart lands a job as Danger, the sidekick-in-training to superhero Captain Man, he must learn to navigate a double life balancing the challenges of 8th grade with the crazy adventures of a real-life crime fighter!",
-        "popularity": 2884.05,
-        "poster_path": "/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
-        "first_air_date": "2014-07-26",
-        "name": "Henry Danger",
-        "vote_average": 8.248,
-        "vote_count": 1054
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/faNvROkHTNPsKTLz6g4ksiDe9zQ.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          10765
-        ],
-        "id": 2473,
-        "origin_country": [
-          "GB"
-        ],
-        "original_language": "en",
-        "original_name": "The Avengers",
-        "overview": "The Avengers is a British television series created in the 1960s. It initially focused on Dr. David Keel and his assistant John Steed. Hendry left after the first series and Steed became the main character, partnered with a succession of assistants. His most famous assistants were intelligent, stylish and assertive women: Cathy Gale, Emma Peel and Tara King. Later episodes increasingly incorporated elements of science fiction and fantasy, parody and British eccentricity.",
-        "popularity": 2798.261,
-        "poster_path": "/uU7CrpWkD7W04HBpuK4CSbtSKRi.jpg",
-        "first_air_date": "1961-01-07",
-        "name": "The Avengers",
-        "vote_average": 7.69,
-        "vote_count": 126
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/m1rvaIIrDGwSYMt5mWG1WiTndmE.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 91239,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Bridgerton",
-        "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
-        "popularity": 2772.757,
-        "poster_path": "/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
-        "first_air_date": "2020-12-25",
-        "name": "Bridgerton",
-        "vote_average": 8.121,
-        "vote_count": 2371
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/lhdUwhInXu31qHm65jwBAlpTp8P.jpg",
-        "genre_ids": [
-          10767
-        ],
-        "id": 82873,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "The Kelly Clarkson Show",
-        "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-        "popularity": 2768.216,
-        "poster_path": "/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg",
-        "first_air_date": "2019-09-09",
-        "name": "The Kelly Clarkson Show",
-        "vote_average": 6.313,
-        "vote_count": 48
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/qb9vehNFxTpPrazhD7JJ6QtEtCv.jpg",
-        "genre_ids": [
-          18,
-          10765
-        ],
-        "id": 64432,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "The Magicians",
-        "overview": "Brakebills University is a secret institution specializing in magic. There, amidst an unorthodox education of spellcasting, a group of twenty-something friends soon discover that a magical fantasy world they read about as children is all too real— and poses grave danger to humanity.",
-        "popularity": 2684.725,
-        "poster_path": "/A66dZN98BPEYeFQAhNdNCIXa57d.jpg",
-        "first_air_date": "2015-12-16",
-        "name": "The Magicians",
-        "vote_average": 7.624,
-        "vote_count": 1553
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 62649,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Superstore",
-        "overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
-        "popularity": 2637.323,
-        "poster_path": "/maBJkaBM4UqAttn9UkLCfZEVEfk.jpg",
-        "first_air_date": "2015-11-30",
-        "name": "Superstore",
-        "vote_average": 7.584,
-        "vote_count": 601
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/5CPuNvSueKbCmltTzLAe8AiYS3u.jpg",
-        "genre_ids": [
-          10762,
-          10765,
-          16,
-          10759
-        ],
-        "id": 4574,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "X-Men",
-        "overview": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant rights against hostile Government agencies, whilst at the same time protecting mankind from mutant supremacist Magneto who seeks to destroy the human race in return for the atrocities committed against mutant kind.",
-        "popularity": 2635.755,
-        "poster_path": "/jRGOY8KvL7hHrJcfKfXe99C4pc5.jpg",
-        "first_air_date": "1992-10-31",
-        "name": "X-Men",
-        "vote_average": 8.198,
-        "vote_count": 1124
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/vZePKXaSO3537aJTxifE3Rrwobb.jpg",
-        "genre_ids": [
-          80,
-          18,
-          9648
-        ],
-        "id": 1431,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "CSI: Crime Scene Investigation",
-        "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
-        "popularity": 2515.688,
-        "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
-        "first_air_date": "2000-10-06",
-        "name": "CSI: Crime Scene Investigation",
-        "vote_average": 7.619,
-        "vote_count": 1162
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/lqDlYLNA0RdMXDiz70lU8Ib1nwW.jpg",
-        "genre_ids": [
-          18,
-          35,
-          80
-        ],
-        "id": 8590,
-        "origin_country": [
-          "FR"
-        ],
-        "original_language": "fr",
-        "original_name": "Plus belle la vie",
-        "overview": "The daily lives of the inhabitants of \"le Mistral\", an imaginary neighbourhood in the Mediterranean port city of Marseille, where wealthy families cross paths with the less than rich.",
-        "popularity": 2458.684,
-        "poster_path": "/jmU8HlTDn87xmRqXagcL2swDr8I.jpg",
-        "first_air_date": "2004-08-30",
-        "name": "Plus belle la vie",
-        "vote_average": 4.4,
-        "vote_count": 24
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/hH4YaZuH89Hlyz0DEkf362Mj8gU.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 65701,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Good Mythical Morning",
-        "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest  things, giving you a daily dose of casual comedy every Monday-Friday.",
-        "popularity": 2455.242,
-        "poster_path": "/2Fja87aTeuXxTEI1MH2IuHHSsLq.jpg",
-        "first_air_date": "2012-01-09",
-        "name": "Good Mythical Morning",
-        "vote_average": 6.602,
-        "vote_count": 59
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/yLzXkfBR0aYt00W3gboloVst98D.jpg",
-        "genre_ids": [
-          99,
-          9648,
-          10765
-        ],
-        "id": 32608,
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Ancient Aliens",
-        "overview": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate.",
-        "popularity": 2437.467,
-        "poster_path": "/8yR1FK6z1Gx0pyvyXRJrvbxOyuU.jpg",
-        "first_air_date": "2010-04-20",
-        "name": "Ancient Aliens",
-        "vote_average": 6.823,
-        "vote_count": 246
-      }
+[
+  {
+    "id": 3000,
+    "title": "Reacher",
+    "year": 2022,
+    "director": "Edward Zwick",
+    "actors": "Alan Ritchson, Willa Fitzgerald, Malcolm Goodwin, Harvey Guillén",
+    "plot": "Jack Reacher, un ex-policía militar, se encuentra en un pequeño pueblo en busca de una historia que podría costarle la vida. Al investigar un asesinato local, se ve envuelto en una trama de conspiración y corrupción.",
+    "country": "USA",
+    "genre": "Action, Crime, Drama",
+    "runtime": "60 min (por episodio)",
+    "ratings": {
+      "IMDb": "8.1",
+      "Rotten Tomatoes": "N/A",
+      "Metacritic": "N/A"
+    },
+    "poster": "https://iili.io/dNPngWl.jpg",
+    "banners": [
+      "https://iili.io/dNPxP9e.png"
     ],
-    "total_pages": 8626,
-    "total_results": 172519
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "url": "https://playerwish.com/e/m0nf9qv5i4rm",
+            "thumbnail": "https://iili.io/dNiah6g.webp"
+          },
+          {
+            "episodeNumber": 2,
+            "url": "https://playerwish.com/e/as5bcaes24pt",
+            "thumbnail": "https://iili.io/dNicrbV.webp"
+          },
+          {
+            "episodeNumber": 3,
+            "url": "https://playerwish.com/e/5u84yjyql5x4",
+            "thumbnail": "https://iili.io/dNicPWP.webp"
+          },
+          {
+            "episodeNumber": 4,
+            "url": "https://playerwish.com/e/sdxmoxlxqryx",
+            "thumbnail": "https://iili.io/dNicis1.webp"
+          },
+          {
+            "episodeNumber": 5,
+            "url": "x",
+            "thumbnail": "x"
+          },
+          {
+            "episodeNumber": 6,
+            "url": "y",
+            "thumbnail": "y"
+          },
+          {
+            "episodeNumber": 7,
+            "url": "y",
+            "thumbnail": "y"
+          },
+          {
+            "episodeNumber": 8,
+            "url": "c",
+            "thumbnail": "c"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "url": "s",
+            "thumbnail": "s"
+          },
+          {
+            "episodeNumber": 2,
+            "url": "a",
+            "thumbnail": "a"
+          },
+          {
+            "episodeNumber": 3,
+            "url": "p",
+            "thumbnail": "p"
+          },
+          {
+            "episodeNumber": 4,
+            "url": "a",
+            "thumbnail": "a"
+          },
+          {
+            "episodeNumber": 5,
+            "url": "c",
+            "thumbnail": "c"
+          },
+          {
+            "episodeNumber": 6,
+            "url": "c",
+            "thumbnail": "c"
+          },
+          {
+            "episodeNumber": 7,
+            "url": "c",
+            "thumbnail": "c"
+          },
+          {
+            "episodeNumber": 8,
+            "url": "c",
+            "thumbnail": "c"
+          }
+        ]
+      }
+    ]
   }
+]
